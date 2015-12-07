@@ -1,0 +1,5562 @@
+{
+  "100:0": {
+    "alpha": 0,
+    "color": [
+      0.455,
+      0.082,
+      0.077
+    ],
+    "emittance": 0,
+    "name": "Red Mushroom Block"
+  },
+  "101:0": {
+    "alpha": 0,
+    "color": [
+      0.433,
+      0.427,
+      0.42
+    ],
+    "emittance": 0,
+    "name": "Iron Bars"
+  },
+  "102:0": {
+    "alpha": 0.5,
+    "color": [
+      0.855,
+      0.944,
+      0.957
+    ],
+    "emittance": 0,
+    "name": "Glass Pane"
+  },
+  "103:0": {
+    "alpha": 0,
+    "color": [
+      0.49,
+      0.502,
+      0.122
+    ],
+    "emittance": 0,
+    "name": "Melon Block"
+  },
+  "104:0": {
+    "alpha": 0,
+    "color": [
+      0.496,
+      0.724,
+      0.323
+    ],
+    "emittance": 0,
+    "name": "Pumpkin Stem"
+  },
+  "105:0": {
+    "alpha": 0,
+    "color": [
+      0.496,
+      0.724,
+      0.323
+    ],
+    "emittance": 0,
+    "name": "Melon Stem"
+  },
+  "106:0": {
+    "alpha": 0,
+    "color": [
+      0.123,
+      0.31,
+      0.041
+    ],
+    "emittance": 0,
+    "name": "Vines"
+  },
+  "107:0": {
+    "alpha": 0,
+    "color": [
+      0.522,
+      0.425,
+      0.259
+    ],
+    "emittance": 0,
+    "name": "Oak Fence Gate"
+  },
+  "108:0": {
+    "alpha": 0,
+    "color": [
+      0.487,
+      0.327,
+      0.284
+    ],
+    "emittance": 0,
+    "name": "Brick Stairs"
+  },
+  "109:0": {
+    "alpha": 0,
+    "color": [
+      0.405,
+      0.405,
+      0.405
+    ],
+    "emittance": 0,
+    "name": "Stone Brick Stairs"
+  },
+  "110:0": {
+    "alpha": 0,
+    "color": [
+      0.373,
+      0.299,
+      0.266
+    ],
+    "emittance": 0,
+    "name": "Mycelium"
+  },
+  "111:0": {
+    "alpha": 0,
+    "color": [
+      0.069,
+      0.34,
+      0.095
+    ],
+    "emittance": 0,
+    "name": "Lily Pad"
+  },
+  "112:0": {
+    "alpha": 0,
+    "color": [
+      0.149,
+      0.075,
+      0.088
+    ],
+    "emittance": 0,
+    "name": "Nether Brick"
+  },
+  "113:0": {
+    "alpha": 0,
+    "color": [
+      0.149,
+      0.075,
+      0.088
+    ],
+    "emittance": 0,
+    "name": "Nether Brick Fence"
+  },
+  "114:0": {
+    "alpha": 0,
+    "color": [
+      0.149,
+      0.075,
+      0.089
+    ],
+    "emittance": 0,
+    "name": "Nether Brick Stairs"
+  },
+  "115:0": {
+    "alpha": 0,
+    "color": [
+      0.443,
+      0.069,
+      0.065
+    ],
+    "emittance": 0,
+    "name": "Nether Wart"
+  },
+  "117:0": {
+    "alpha": 0,
+    "color": [
+      0.253,
+      0.244,
+      0.22
+    ],
+    "emittance": 0,
+    "name": "Brewing Stand"
+  },
+  "118:0": {
+    "alpha": 0,
+    "color": [
+      0.145,
+      0.145,
+      0.145
+    ],
+    "emittance": 0,
+    "name": "Cauldron"
+  },
+  "119:0": {
+    "alpha": 0,
+    "color": [
+      0.402,
+      0.173,
+      0.704
+    ],
+    "emittance": 5,
+    "name": "End Portal"
+  },
+  "122:0": {
+    "alpha": 0,
+    "color": [
+      0.032,
+      0.022,
+      0.041
+    ],
+    "emittance": 5,
+    "name": "Dragon Egg"
+  },
+  "125:0": {
+    "alpha": 0,
+    "color": [
+      0.45,
+      0.367,
+      0.226
+    ],
+    "emittance": 0,
+    "name": "Double Oak Wood Slab"
+  },
+  "125:1": {
+    "alpha": 0,
+    "color": [
+      0.27,
+      0.202,
+      0.121
+    ],
+    "emittance": 0,
+    "name": "Double Spruce Wood Slab"
+  },
+  "125:2": {
+    "alpha": 0,
+    "color": [
+      0.508,
+      0.466,
+      0.32
+    ],
+    "emittance": 0,
+    "name": "Double Birch Wood Slab"
+  },
+  "125:3": {
+    "alpha": 0,
+    "color": [
+      0.4,
+      0.287,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Double Jungle Wood Slab"
+  },
+  "125:4": {
+    "alpha": 0,
+    "color": [
+      0.431,
+      0.233,
+      0.13
+    ],
+    "emittance": 0,
+    "name": "Double Acacia Wood Slab"
+  },
+  "125:5": {
+    "alpha": 0,
+    "color": [
+      0.158,
+      0.102,
+      0.047
+    ],
+    "emittance": 0,
+    "name": "Double Dark Oak Wood Slab"
+  },
+  "126:0": {
+    "alpha": 0,
+    "color": [
+      0.488,
+      0.397,
+      0.245
+    ],
+    "emittance": 0,
+    "name": "Oak Wood Slab"
+  },
+  "126:1": {
+    "alpha": 0,
+    "color": [
+      0.302,
+      0.226,
+      0.135
+    ],
+    "emittance": 0,
+    "name": "Spruce Wood Slab"
+  },
+  "126:2": {
+    "alpha": 0,
+    "color": [
+      0.568,
+      0.521,
+      0.357
+    ],
+    "emittance": 0,
+    "name": "Birch Wood Slab"
+  },
+  "126:3": {
+    "alpha": 0,
+    "color": [
+      0.448,
+      0.321,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "Jungle Wood Slab"
+  },
+  "126:4": {
+    "alpha": 0,
+    "color": [
+      0.493,
+      0.267,
+      0.148
+    ],
+    "emittance": 0,
+    "name": "Acacia Wood Slab"
+  },
+  "126:5": {
+    "alpha": 0,
+    "color": [
+      0.178,
+      0.115,
+      0.053
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Wood Slab"
+  },
+  "129:0": {
+    "alpha": 0,
+    "color": [
+      0.28,
+      0.31,
+      0.29
+    ],
+    "emittance": 0,
+    "name": "Emerald Ore"
+  },
+  "130:0": {
+    "alpha": 0,
+    "color": [
+      0.064,
+      0.099,
+      0.104
+    ],
+    "emittance": 5,
+    "name": "Ender Chest"
+  },
+  "131:0": {
+    "alpha": 0,
+    "color": [
+      0.372,
+      0.313,
+      0.214
+    ],
+    "emittance": 0,
+    "name": "Tripwire Hook"
+  },
+  "132:0": {
+    "alpha": 0,
+    "color": [
+      0.506,
+      0.506,
+      0.506
+    ],
+    "emittance": 0,
+    "name": "Tripwire"
+  },
+  "134:0": {
+    "alpha": 0,
+    "color": [
+      0.273,
+      0.205,
+      0.123
+    ],
+    "emittance": 0,
+    "name": "Spruce Wood Stairs"
+  },
+  "135:0": {
+    "alpha": 0,
+    "color": [
+      0.507,
+      0.466,
+      0.32
+    ],
+    "emittance": 0,
+    "name": "Birch Wood Stairs"
+  },
+  "136:0": {
+    "alpha": 0,
+    "color": [
+      0.405,
+      0.291,
+      0.205
+    ],
+    "emittance": 0,
+    "name": "Jungle Wood Stairs"
+  },
+  "137:0": {
+    "alpha": 0,
+    "color": [
+      0.451,
+      0.346,
+      0.28
+    ],
+    "emittance": 0,
+    "name": "Command Block"
+  },
+  "138:0": {
+    "alpha": 0,
+    "color": [
+      0.175,
+      0.52,
+      0.501
+    ],
+    "emittance": 0,
+    "name": "Beacon"
+  },
+  "139:0": {
+    "alpha": 0,
+    "color": [
+      0.291,
+      0.291,
+      0.291
+    ],
+    "emittance": 0,
+    "name": "Cobblestone Wall"
+  },
+  "139:1": {
+    "alpha": 0,
+    "color": [
+      0.256,
+      0.297,
+      0.256
+    ],
+    "emittance": 0,
+    "name": "Mossy Cobblestone Wall"
+  },
+  "140:0": {
+    "alpha": 0,
+    "color": [
+      0.311,
+      0.172,
+      0.134
+    ],
+    "emittance": 0,
+    "name": "Flower Pot"
+  },
+  "141:0": {
+    "alpha": 0,
+    "color": [
+      0.078,
+      0.503,
+      0.009
+    ],
+    "emittance": 0,
+    "name": "Carrots"
+  },
+  "142:0": {
+    "alpha": 0,
+    "color": [
+      0.135,
+      0.669,
+      0.142
+    ],
+    "emittance": 0,
+    "name": "Potatoes"
+  },
+  "143:0": {
+    "alpha": 0,
+    "color": [
+      0.405,
+      0.331,
+      0.201
+    ],
+    "emittance": 0,
+    "name": "Wooden Button"
+  },
+  "144:0": {
+    "alpha": 0,
+    "color": [
+      0.433,
+      0.433,
+      0.433
+    ],
+    "emittance": 0,
+    "name": "Mob Head"
+  },
+  "145:0": {
+    "alpha": 0,
+    "color": [
+      0.172,
+      0.168,
+      0.168
+    ],
+    "emittance": 0,
+    "name": "Anvil"
+  },
+  "146:0": {
+    "alpha": 0,
+    "color": [
+      0.376,
+      0.272,
+      0.109
+    ],
+    "emittance": 0,
+    "name": "Trapped Chest"
+  },
+  "147:0": {
+    "alpha": 0,
+    "color": [
+      0.826,
+      0.797,
+      0.265
+    ],
+    "emittance": 0,
+    "name": "Weighted Pressure Plate (light)"
+  },
+  "148:0": {
+    "alpha": 0,
+    "color": [
+      0.735,
+      0.735,
+      0.735
+    ],
+    "emittance": 0,
+    "name": "Weighted Pressure Plate (heavy)"
+  },
+  "149:0": {
+    "alpha": 0,
+    "color": [
+      0.439,
+      0.41,
+      0.4
+    ],
+    "emittance": 0,
+    "name": "Redstone Comparator (inactive)"
+  },
+  "14:0": {
+    "alpha": 0,
+    "color": [
+      0.403,
+      0.395,
+      0.359
+    ],
+    "emittance": 0,
+    "name": "Gold Ore"
+  },
+  "150:0": {
+    "alpha": 0,
+    "color": [
+      0.488,
+      0.425,
+      0.409
+    ],
+    "emittance": 0,
+    "name": "Redstone Comparator (active)"
+  },
+  "151:0": {
+    "alpha": 0,
+    "color": [
+      0.331,
+      0.29,
+      0.227
+    ],
+    "emittance": 0,
+    "name": "Daylight Sensor"
+  },
+  "152:0": {
+    "alpha": 0,
+    "color": [
+      0.448,
+      0.072,
+      0.024
+    ],
+    "emittance": 0,
+    "name": "Redstone Block"
+  },
+  "154:0": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.301,
+      0.301
+    ],
+    "emittance": 0,
+    "name": "Hopper"
+  },
+  "155:0": {
+    "alpha": 0,
+    "color": [
+      0.614,
+      0.606,
+      0.589
+    ],
+    "emittance": 0,
+    "name": "Quartz Block"
+  },
+  "155:1": {
+    "alpha": 0,
+    "color": [
+      0.606,
+      0.596,
+      0.575
+    ],
+    "emittance": 0,
+    "name": "Chiseled Quartz Block"
+  },
+  "155:2": {
+    "alpha": 0,
+    "color": [
+      0.604,
+      0.595,
+      0.575
+    ],
+    "emittance": 0,
+    "name": "Pillar Quartz Block"
+  },
+  "156:0": {
+    "alpha": 0,
+    "color": [
+      0.638,
+      0.63,
+      0.612
+    ],
+    "emittance": 0,
+    "name": "Quartz Stairs"
+  },
+  "157:0": {
+    "alpha": 0,
+    "color": [
+      0.41,
+      0.327,
+      0.283
+    ],
+    "emittance": 0,
+    "name": "Activator Rail"
+  },
+  "158:0": {
+    "alpha": 0,
+    "color": [
+      0.273,
+      0.273,
+      0.273
+    ],
+    "emittance": 0,
+    "name": "Dropper"
+  },
+  "159:0": {
+    "alpha": 0,
+    "color": [
+      0.542,
+      0.46,
+      0.417
+    ],
+    "emittance": 0,
+    "name": "White Stained Clay"
+  },
+  "159:1": {
+    "alpha": 0,
+    "color": [
+      0.413,
+      0.214,
+      0.096
+    ],
+    "emittance": 0,
+    "name": "Orange Stained Clay"
+  },
+  "159:10": {
+    "alpha": 0,
+    "color": [
+      0.304,
+      0.18,
+      0.221
+    ],
+    "emittance": 0,
+    "name": "Purple Stained Clay"
+  },
+  "159:11": {
+    "alpha": 0,
+    "color": [
+      0.192,
+      0.154,
+      0.235
+    ],
+    "emittance": 0,
+    "name": "Blue Stained Clay"
+  },
+  "159:12": {
+    "alpha": 0,
+    "color": [
+      0.199,
+      0.132,
+      0.092
+    ],
+    "emittance": 0,
+    "name": "Brown Stained Clay"
+  },
+  "159:13": {
+    "alpha": 0,
+    "color": [
+      0.196,
+      0.215,
+      0.109
+    ],
+    "emittance": 0,
+    "name": "Green Stained Clay"
+  },
+  "159:14": {
+    "alpha": 0,
+    "color": [
+      0.367,
+      0.156,
+      0.12
+    ],
+    "emittance": 0,
+    "name": "Red Stained Clay"
+  },
+  "159:15": {
+    "alpha": 0,
+    "color": [
+      0.096,
+      0.059,
+      0.042
+    ],
+    "emittance": 0,
+    "name": "Black Stained Clay"
+  },
+  "159:2": {
+    "alpha": 0,
+    "color": [
+      0.383,
+      0.225,
+      0.279
+    ],
+    "emittance": 0,
+    "name": "Magenta Stained Clay"
+  },
+  "159:3": {
+    "alpha": 0,
+    "color": [
+      0.292,
+      0.279,
+      0.356
+    ],
+    "emittance": 0,
+    "name": "Light Blue Stained Clay"
+  },
+  "159:4": {
+    "alpha": 0,
+    "color": [
+      0.476,
+      0.34,
+      0.09
+    ],
+    "emittance": 0,
+    "name": "Yellow Stained Clay"
+  },
+  "159:5": {
+    "alpha": 0,
+    "color": [
+      0.266,
+      0.303,
+      0.136
+    ],
+    "emittance": 0,
+    "name": "Lime Stained Clay"
+  },
+  "159:6": {
+    "alpha": 0,
+    "color": [
+      0.414,
+      0.2,
+      0.201
+    ],
+    "emittance": 0,
+    "name": "Pink Stained Clay"
+  },
+  "159:7": {
+    "alpha": 0,
+    "color": [
+      0.149,
+      0.11,
+      0.092
+    ],
+    "emittance": 0,
+    "name": "Gray Stained Clay"
+  },
+  "159:8": {
+    "alpha": 0,
+    "color": [
+      0.349,
+      0.275,
+      0.251
+    ],
+    "emittance": 0,
+    "name": "Light Gray Stained Clay"
+  },
+  "159:9": {
+    "alpha": 0,
+    "color": [
+      0.222,
+      0.233,
+      0.233
+    ],
+    "emittance": 0,
+    "name": "Cyan Stained Clay"
+  },
+  "15:0": {
+    "alpha": 0,
+    "color": [
+      0.385,
+      0.372,
+      0.364
+    ],
+    "emittance": 0,
+    "name": "Iron Ore"
+  },
+  "160:0": {
+    "alpha": 0.5,
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "emittance": 0,
+    "name": "White Stained Glass Pane"
+  },
+  "160:1": {
+    "alpha": 0.5,
+    "color": [
+      0.847,
+      0.498,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Orange Stained Glass Pane"
+  },
+  "160:10": {
+    "alpha": 0.5,
+    "color": [
+      0.498,
+      0.247,
+      0.698
+    ],
+    "emittance": 0,
+    "name": "Purple Stained Glass Pane"
+  },
+  "160:11": {
+    "alpha": 0.5,
+    "color": [
+      0.2,
+      0.298,
+      0.698
+    ],
+    "emittance": 0,
+    "name": "Blue Stained Glass Pane"
+  },
+  "160:12": {
+    "alpha": 0.5,
+    "color": [
+      0.4,
+      0.298,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Brown Stained Glass Pane"
+  },
+  "160:13": {
+    "alpha": 0.5,
+    "color": [
+      0.4,
+      0.498,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Green Stained Glass Pane"
+  },
+  "160:14": {
+    "alpha": 0.5,
+    "color": [
+      0.6,
+      0.2,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Red Stained Glass Pane"
+  },
+  "160:15": {
+    "alpha": 0.5,
+    "color": [
+      0.098,
+      0.098,
+      0.098
+    ],
+    "emittance": 0,
+    "name": "Black Stained Glass Pane"
+  },
+  "160:2": {
+    "alpha": 0.5,
+    "color": [
+      0.698,
+      0.298,
+      0.847
+    ],
+    "emittance": 0,
+    "name": "Magenta Stained Glass Pane"
+  },
+  "160:3": {
+    "alpha": 0.5,
+    "color": [
+      0.4,
+      0.6,
+      0.847
+    ],
+    "emittance": 0,
+    "name": "Light Blue Stained Glass Pane"
+  },
+  "160:4": {
+    "alpha": 0.5,
+    "color": [
+      0.898,
+      0.898,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Yellow Stained Glass Pane"
+  },
+  "160:5": {
+    "alpha": 0.5,
+    "color": [
+      0.498,
+      0.8,
+      0.098
+    ],
+    "emittance": 0,
+    "name": "Lime Stained Glass Pane"
+  },
+  "160:6": {
+    "alpha": 0.5,
+    "color": [
+      0.949,
+      0.498,
+      0.647
+    ],
+    "emittance": 0,
+    "name": "Pink Stained Glass Pane"
+  },
+  "160:7": {
+    "alpha": 0.5,
+    "color": [
+      0.298,
+      0.298,
+      0.298
+    ],
+    "emittance": 0,
+    "name": "Gray Stained Glass Pane"
+  },
+  "160:8": {
+    "alpha": 0.5,
+    "color": [
+      0.6,
+      0.6,
+      0.6
+    ],
+    "emittance": 0,
+    "name": "Light Gray Stained Glass Pane"
+  },
+  "160:9": {
+    "alpha": 0.5,
+    "color": [
+      0.298,
+      0.498,
+      0.6
+    ],
+    "emittance": 0,
+    "name": "Cyan Stained Glass Pane"
+  },
+  "161:0": {
+    "alpha": 0,
+    "color": [
+      0.118,
+      0.296,
+      0.041
+    ],
+    "emittance": 0,
+    "name": "Acacia Leaves"
+  },
+  "161:1": {
+    "alpha": 0,
+    "color": [
+      0.118,
+      0.296,
+      0.041
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Leaves"
+  },
+  "162:0": {
+    "alpha": 0,
+    "color": [
+      0.309,
+      0.239,
+      0.198
+    ],
+    "emittance": 0,
+    "name": "Acacia Wood"
+  },
+  "162:1": {
+    "alpha": 0,
+    "color": [
+      0.159,
+      0.125,
+      0.077
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Wood"
+  },
+  "163:0": {
+    "alpha": 0,
+    "color": [
+      0.451,
+      0.244,
+      0.135
+    ],
+    "emittance": 0,
+    "name": "Acacia Wood Stairs"
+  },
+  "164:0": {
+    "alpha": 0,
+    "color": [
+      0.163,
+      0.106,
+      0.049
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Wood Stairs"
+  },
+  "166:0": {
+    "alpha": 0,
+    "color": [
+      0.827,
+      0.097,
+      0.1
+    ],
+    "emittance": 0,
+    "name": "Barrier"
+  },
+  "167:0": {
+    "alpha": 0,
+    "color": [
+      0.665,
+      0.665,
+      0.665
+    ],
+    "emittance": 0,
+    "name": "Iron Trapdoor"
+  },
+  "168:0": {
+    "alpha": 0,
+    "color": [
+      0.274,
+      0.437,
+      0.39
+    ],
+    "emittance": 0,
+    "name": "Prismarine"
+  },
+  "169:0": {
+    "alpha": 0,
+    "color": [
+      0.432,
+      0.501,
+      0.477
+    ],
+    "emittance": 5,
+    "name": "Sea Lantern"
+  },
+  "16:0": {
+    "alpha": 0,
+    "color": [
+      0.337,
+      0.337,
+      0.337
+    ],
+    "emittance": 0,
+    "name": "Coal Ore"
+  },
+  "171:0": {
+    "alpha": 0,
+    "color": [
+      0.85,
+      0.85,
+      0.85
+    ],
+    "emittance": 0,
+    "name": "White Carpet"
+  },
+  "171:1": {
+    "alpha": 0,
+    "color": [
+      0.837,
+      0.477,
+      0.237
+    ],
+    "emittance": 0,
+    "name": "Orange Carpet"
+  },
+  "171:10": {
+    "alpha": 0,
+    "color": [
+      0.485,
+      0.236,
+      0.696
+    ],
+    "emittance": 0,
+    "name": "Purple Carpet"
+  },
+  "171:11": {
+    "alpha": 0,
+    "color": [
+      0.177,
+      0.218,
+      0.542
+    ],
+    "emittance": 0,
+    "name": "Blue Carpet"
+  },
+  "171:12": {
+    "alpha": 0,
+    "color": [
+      0.303,
+      0.193,
+      0.119
+    ],
+    "emittance": 0,
+    "name": "Brown Carpet"
+  },
+  "171:13": {
+    "alpha": 0,
+    "color": [
+      0.203,
+      0.271,
+      0.105
+    ],
+    "emittance": 0,
+    "name": "Green Carpet"
+  },
+  "171:14": {
+    "alpha": 0,
+    "color": [
+      0.576,
+      0.198,
+      0.186
+    ],
+    "emittance": 0,
+    "name": "Red Carpet"
+  },
+  "171:15": {
+    "alpha": 0,
+    "color": [
+      0.097,
+      0.084,
+      0.084
+    ],
+    "emittance": 0,
+    "name": "Black Carpet"
+  },
+  "171:2": {
+    "alpha": 0,
+    "color": [
+      0.693,
+      0.308,
+      0.727
+    ],
+    "emittance": 0,
+    "name": "Magenta Carpet"
+  },
+  "171:3": {
+    "alpha": 0,
+    "color": [
+      0.409,
+      0.528,
+      0.772
+    ],
+    "emittance": 0,
+    "name": "Light Blue Carpet"
+  },
+  "171:4": {
+    "alpha": 0,
+    "color": [
+      0.681,
+      0.638,
+      0.152
+    ],
+    "emittance": 0,
+    "name": "Yellow Carpet"
+  },
+  "171:5": {
+    "alpha": 0,
+    "color": [
+      0.252,
+      0.667,
+      0.217
+    ],
+    "emittance": 0,
+    "name": "Lime Carpet"
+  },
+  "171:6": {
+    "alpha": 0,
+    "color": [
+      0.802,
+      0.508,
+      0.589
+    ],
+    "emittance": 0,
+    "name": "Pink Carpet"
+  },
+  "171:7": {
+    "alpha": 0,
+    "color": [
+      0.243,
+      0.243,
+      0.243
+    ],
+    "emittance": 0,
+    "name": "Gray Carpet"
+  },
+  "171:8": {
+    "alpha": 0,
+    "color": [
+      0.592,
+      0.618,
+      0.618
+    ],
+    "emittance": 0,
+    "name": "Light Gray Carpet"
+  },
+  "171:9": {
+    "alpha": 0,
+    "color": [
+      0.178,
+      0.423,
+      0.525
+    ],
+    "emittance": 0,
+    "name": "Cyan Carpet"
+  },
+  "172:0": {
+    "alpha": 0,
+    "color": [
+      0.388,
+      0.239,
+      0.172
+    ],
+    "emittance": 0,
+    "name": "Hardened Clay"
+  },
+  "173:0": {
+    "alpha": 0,
+    "color": [
+      0.048,
+      0.048,
+      0.048
+    ],
+    "emittance": 0,
+    "name": "Block of Coal"
+  },
+  "174:0": {
+    "alpha": 0.5,
+    "color": [
+      0.419,
+      0.495,
+      0.627
+    ],
+    "emittance": 0,
+    "name": "Packed Ice"
+  },
+  "175:0": {
+    "alpha": 0,
+    "color": [
+      0.919,
+      0.779,
+      0.132
+    ],
+    "emittance": 0,
+    "name": "Sunflower"
+  },
+  "175:1": {
+    "alpha": 0,
+    "color": [
+      0.584,
+      0.581,
+      0.553
+    ],
+    "emittance": 0,
+    "name": "Lilac"
+  },
+  "175:2": {
+    "alpha": 0,
+    "color": [
+      0.247,
+      0.377,
+      0.214
+    ],
+    "emittance": 0,
+    "name": "Double Tallgrass"
+  },
+  "175:3": {
+    "alpha": 0,
+    "color": [
+      0.238,
+      0.362,
+      0.205
+    ],
+    "emittance": 0,
+    "name": "Large Fern"
+  },
+  "175:4": {
+    "alpha": 0,
+    "color": [
+      0.454,
+      0.239,
+      0.029
+    ],
+    "emittance": 0,
+    "name": "Rose Bush"
+  },
+  "175:5": {
+    "alpha": 0,
+    "color": [
+      0.505,
+      0.517,
+      0.542
+    ],
+    "emittance": 0,
+    "name": "Peony"
+  },
+  "176:0": {
+    "alpha": 0,
+    "color": [
+      0.591,
+      0.589,
+      0.586
+    ],
+    "emittance": 0,
+    "name": "Free-standing Banner"
+  },
+  "177:0": {
+    "alpha": 0,
+    "color": [
+      0.591,
+      0.589,
+      0.586
+    ],
+    "emittance": 0,
+    "name": "Wall-mounted Banner"
+  },
+  "178:0": {
+    "alpha": 0,
+    "color": [
+      0.269,
+      0.265,
+      0.254
+    ],
+    "emittance": 0,
+    "name": "Inverted Daylight Sensor"
+  },
+  "179:0": {
+    "alpha": 0,
+    "color": [
+      0.427,
+      0.218,
+      0.076
+    ],
+    "emittance": 0,
+    "name": "Red Sandstone"
+  },
+  "179:1": {
+    "alpha": 0,
+    "color": [
+      0.418,
+      0.213,
+      0.073
+    ],
+    "emittance": 0,
+    "name": "Chiseled Red Sandstone"
+  },
+  "179:2": {
+    "alpha": 0,
+    "color": [
+      0.426,
+      0.217,
+      0.077
+    ],
+    "emittance": 0,
+    "name": "Smooth Red Sandstone"
+  },
+  "17:0": {
+    "alpha": 0,
+    "color": [
+      0.356,
+      0.286,
+      0.176
+    ],
+    "emittance": 0,
+    "name": "Oak Wood"
+  },
+  "17:1": {
+    "alpha": 0,
+    "color": [
+      0.25,
+      0.187,
+      0.106
+    ],
+    "emittance": 0,
+    "name": "Spruce Wood"
+  },
+  "17:3": {
+    "alpha": 0,
+    "color": [
+      0.323,
+      0.257,
+      0.139
+    ],
+    "emittance": 0,
+    "name": "Jungle Wood"
+  },
+  "180:0": {
+    "alpha": 0,
+    "color": [
+      0.443,
+      0.226,
+      0.079
+    ],
+    "emittance": 0,
+    "name": "Red Sandstone Stairs"
+  },
+  "181:0": {
+    "alpha": 0,
+    "color": [
+      0.427,
+      0.218,
+      0.076
+    ],
+    "emittance": 0,
+    "name": "Double Red Sandstone Slab"
+  },
+  "182:0": {
+    "alpha": 0,
+    "color": [
+      0.48,
+      0.244,
+      0.086
+    ],
+    "emittance": 0,
+    "name": "Red Sandstone Slab"
+  },
+  "183:0": {
+    "alpha": 0,
+    "color": [
+      0.224,
+      0.168,
+      0.1
+    ],
+    "emittance": 0,
+    "name": "Spruce Fence Gate"
+  },
+  "184:0": {
+    "alpha": 0,
+    "color": [
+      0.423,
+      0.387,
+      0.266
+    ],
+    "emittance": 0,
+    "name": "Birch Fence Gate"
+  },
+  "185:0": {
+    "alpha": 0,
+    "color": [
+      0.33,
+      0.236,
+      0.163
+    ],
+    "emittance": 0,
+    "name": "Jungle Fence Gate"
+  },
+  "186:0": {
+    "alpha": 0,
+    "color": [
+      0.132,
+      0.086,
+      0.04
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Fence Gate"
+  },
+  "187:0": {
+    "alpha": 0,
+    "color": [
+      0.366,
+      0.197,
+      0.111
+    ],
+    "emittance": 0,
+    "name": "Acacia Fence Gate"
+  },
+  "188:0": {
+    "alpha": 0,
+    "color": [
+      0.246,
+      0.185,
+      0.11
+    ],
+    "emittance": 0,
+    "name": "Spruce Fence"
+  },
+  "189:0": {
+    "alpha": 0,
+    "color": [
+      0.459,
+      0.421,
+      0.289
+    ],
+    "emittance": 0,
+    "name": "Birch Fence"
+  },
+  "18:0": {
+    "alpha": 0,
+    "color": [
+      0.113,
+      0.285,
+      0.038
+    ],
+    "emittance": 0,
+    "name": "Oak Leaves"
+  },
+  "18:1": {
+    "alpha": 0,
+    "color": [
+      0.113,
+      0.285,
+      0.038
+    ],
+    "emittance": 0,
+    "name": "Spruce Leaves"
+  },
+  "18:2": {
+    "alpha": 0,
+    "color": [
+      0.113,
+      0.285,
+      0.038
+    ],
+    "emittance": 0,
+    "name": "Birch Leaves"
+  },
+  "18:3": {
+    "alpha": 0,
+    "color": [
+      0.118,
+      0.294,
+      0.037
+    ],
+    "emittance": 0,
+    "name": "Jungle Leaves"
+  },
+  "190:0": {
+    "alpha": 0,
+    "color": [
+      0.363,
+      0.261,
+      0.181
+    ],
+    "emittance": 0,
+    "name": "Jungle Fence"
+  },
+  "191:0": {
+    "alpha": 0,
+    "color": [
+      0.145,
+      0.094,
+      0.043
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Fence"
+  },
+  "192:0": {
+    "alpha": 0,
+    "color": [
+      0.397,
+      0.215,
+      0.12
+    ],
+    "emittance": 0,
+    "name": "Acacia Fence"
+  },
+  "193:0": {
+    "alpha": 0,
+    "color": [
+      0.419,
+      0.328,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "Spruce Door Block"
+  },
+  "194:0": {
+    "alpha": 0,
+    "color": [
+      0.819,
+      0.786,
+      0.62
+    ],
+    "emittance": 0,
+    "name": "Birch Door Block"
+  },
+  "195:0": {
+    "alpha": 0,
+    "color": [
+      0.667,
+      0.486,
+      0.353
+    ],
+    "emittance": 0,
+    "name": "Jungle Door Block"
+  },
+  "196:0": {
+    "alpha": 0,
+    "color": [
+      0.616,
+      0.355,
+      0.224
+    ],
+    "emittance": 0,
+    "name": "Acacia Door Block"
+  },
+  "197:0": {
+    "alpha": 0,
+    "color": [
+      0.259,
+      0.172,
+      0.081
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Door Block"
+  },
+  "1:3": {
+    "alpha": 0,
+    "color": [
+      0.467,
+      0.467,
+      0.474
+    ],
+    "emittance": 0,
+    "name": "Diorite"
+  },
+  "1:4": {
+    "alpha": 0,
+    "color": [
+      0.478,
+      0.478,
+      0.485
+    ],
+    "emittance": 0,
+    "name": "Polished Diorite"
+  },
+  "20:0": {
+    "alpha": 0.5,
+    "color": [
+      0.602,
+      0.675,
+      0.686
+    ],
+    "emittance": 0,
+    "name": "Glass"
+  },
+  "21:0": {
+    "alpha": 0,
+    "color": [
+      0.34,
+      0.35,
+      0.37
+    ],
+    "emittance": 0,
+    "name": "Lapis Lazuli Ore"
+  },
+  "2256:0": {
+    "alpha": 0,
+    "color": [
+      0.266,
+      0.26,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "13 Disc"
+  },
+  "2257:0": {
+    "alpha": 0,
+    "color": [
+      0.206,
+      0.257,
+      0.184
+    ],
+    "emittance": 0,
+    "name": "Cat Disc"
+  },
+  "2258:0": {
+    "alpha": 0,
+    "color": [
+      0.258,
+      0.212,
+      0.203
+    ],
+    "emittance": 0,
+    "name": "Blocks Disc"
+  },
+  "2259:0": {
+    "alpha": 0,
+    "color": [
+      0.241,
+      0.184,
+      0.185
+    ],
+    "emittance": 0,
+    "name": "Chirp Disc"
+  },
+  "2260:0": {
+    "alpha": 0,
+    "color": [
+      0.22,
+      0.266,
+      0.203
+    ],
+    "emittance": 0,
+    "name": "Far Disc"
+  },
+  "2261:0": {
+    "alpha": 0,
+    "color": [
+      0.229,
+      0.215,
+      0.266
+    ],
+    "emittance": 0,
+    "name": "Mall Disc"
+  },
+  "2262:0": {
+    "alpha": 0,
+    "color": [
+      0.251,
+      0.217,
+      0.266
+    ],
+    "emittance": 0,
+    "name": "Mellohi Disc"
+  },
+  "2263:0": {
+    "alpha": 0,
+    "color": [
+      0.184,
+      0.184,
+      0.184
+    ],
+    "emittance": 0,
+    "name": "Stal Disc"
+  },
+  "2264:0": {
+    "alpha": 0,
+    "color": [
+      0.268,
+      0.268,
+      0.268
+    ],
+    "emittance": 0,
+    "name": "Strad Disc"
+  },
+  "2265:0": {
+    "alpha": 0,
+    "color": [
+      0.207,
+      0.233,
+      0.198
+    ],
+    "emittance": 0,
+    "name": "Ward Disc"
+  },
+  "2266:0": {
+    "alpha": 0,
+    "color": [
+      0.167,
+      0.167,
+      0.167
+    ],
+    "emittance": 0,
+    "name": "11 Disc"
+  },
+  "2267:0": {
+    "alpha": 0,
+    "color": [
+      0.218,
+      0.231,
+      0.25
+    ],
+    "emittance": 0,
+    "name": "Wait Disc"
+  },
+  "23:0": {
+    "alpha": 0,
+    "color": [
+      0.296,
+      0.296,
+      0.296
+    ],
+    "emittance": 0,
+    "name": "Dispenser"
+  },
+  "256:0": {
+    "alpha": 0,
+    "color": [
+      0.471,
+      0.436,
+      0.371
+    ],
+    "emittance": 0,
+    "name": "Iron Shovel"
+  },
+  "257:0": {
+    "alpha": 0,
+    "color": [
+      0.404,
+      0.369,
+      0.304
+    ],
+    "emittance": 0,
+    "name": "Iron Pickaxe"
+  },
+  "258:0": {
+    "alpha": 0,
+    "color": [
+      0.45,
+      0.417,
+      0.355
+    ],
+    "emittance": 0,
+    "name": "Iron Axe"
+  },
+  "259:0": {
+    "alpha": 0,
+    "color": [
+      0.283,
+      0.283,
+      0.283
+    ],
+    "emittance": 0,
+    "name": "Flint and Steel"
+  },
+  "25:0": {
+    "alpha": 0,
+    "color": [
+      0.294,
+      0.197,
+      0.147
+    ],
+    "emittance": 0,
+    "name": "Note Block"
+  },
+  "260:0": {
+    "alpha": 0,
+    "color": [
+      0.72,
+      0.11,
+      0.142
+    ],
+    "emittance": 0,
+    "name": "Apple"
+  },
+  "261:0": {
+    "alpha": 0,
+    "color": [
+      0.315,
+      0.258,
+      0.153
+    ],
+    "emittance": 0,
+    "name": "Bow"
+  },
+  "262:0": {
+    "alpha": 0,
+    "color": [
+      0.478,
+      0.445,
+      0.384
+    ],
+    "emittance": 0,
+    "name": "Arrow"
+  },
+  "263:0": {
+    "alpha": 0,
+    "color": [
+      0.076,
+      0.076,
+      0.076
+    ],
+    "emittance": 0,
+    "name": "Coal"
+  },
+  "263:1": {
+    "alpha": 0,
+    "color": [
+      0.117,
+      0.104,
+      0.081
+    ],
+    "emittance": 0,
+    "name": "Charcoal"
+  },
+  "264:0": {
+    "alpha": 0,
+    "color": [
+      0.344,
+      0.676,
+      0.619
+    ],
+    "emittance": 0,
+    "name": "Diamond"
+  },
+  "265:0": {
+    "alpha": 0,
+    "color": [
+      0.531,
+      0.531,
+      0.531
+    ],
+    "emittance": 0,
+    "name": "Iron Ingot"
+  },
+  "266:0": {
+    "alpha": 0,
+    "color": [
+      0.708,
+      0.653,
+      0.174
+    ],
+    "emittance": 0,
+    "name": "Gold Ingot"
+  },
+  "267:0": {
+    "alpha": 0,
+    "color": [
+      0.465,
+      0.459,
+      0.448
+    ],
+    "emittance": 0,
+    "name": "Iron Sword"
+  },
+  "268:0": {
+    "alpha": 0,
+    "color": [
+      0.305,
+      0.229,
+      0.086
+    ],
+    "emittance": 0,
+    "name": "Wooden Sword"
+  },
+  "269:0": {
+    "alpha": 0,
+    "color": [
+      0.334,
+      0.251,
+      0.095
+    ],
+    "emittance": 0,
+    "name": "Wooden Shovel"
+  },
+  "26:0": {
+    "alpha": 0,
+    "color": [
+      0.687,
+      0.455,
+      0.456
+    ],
+    "emittance": 0,
+    "name": "Bed"
+  },
+  "270:0": {
+    "alpha": 0,
+    "color": [
+      0.307,
+      0.23,
+      0.088
+    ],
+    "emittance": 0,
+    "name": "Wooden Pickaxe"
+  },
+  "271:0": {
+    "alpha": 0,
+    "color": [
+      0.323,
+      0.243,
+      0.093
+    ],
+    "emittance": 0,
+    "name": "Wooden Axe"
+  },
+  "272:0": {
+    "alpha": 0,
+    "color": [
+      0.372,
+      0.366,
+      0.355
+    ],
+    "emittance": 0,
+    "name": "Stone Sword"
+  },
+  "273:0": {
+    "alpha": 0,
+    "color": [
+      0.374,
+      0.338,
+      0.274
+    ],
+    "emittance": 0,
+    "name": "Stone Shovel"
+  },
+  "274:0": {
+    "alpha": 0,
+    "color": [
+      0.347,
+      0.312,
+      0.247
+    ],
+    "emittance": 0,
+    "name": "Stone Pickaxe"
+  },
+  "275:0": {
+    "alpha": 0,
+    "color": [
+      0.364,
+      0.331,
+      0.269
+    ],
+    "emittance": 0,
+    "name": "Stone Axe"
+  },
+  "276:0": {
+    "alpha": 0,
+    "color": [
+      0.112,
+      0.425,
+      0.358
+    ],
+    "emittance": 0,
+    "name": "Diamond Sword"
+  },
+  "277:0": {
+    "alpha": 0,
+    "color": [
+      0.207,
+      0.41,
+      0.304
+    ],
+    "emittance": 0,
+    "name": "Diamond Shovel"
+  },
+  "278:0": {
+    "alpha": 0,
+    "color": [
+      0.193,
+      0.348,
+      0.25
+    ],
+    "emittance": 0,
+    "name": "Diamond Pickaxe"
+  },
+  "279:0": {
+    "alpha": 0,
+    "color": [
+      0.197,
+      0.392,
+      0.29
+    ],
+    "emittance": 0,
+    "name": "Diamond Axe"
+  },
+  "27:0": {
+    "alpha": 0,
+    "color": [
+      0.607,
+      0.414,
+      0.282
+    ],
+    "emittance": 0,
+    "name": "Powered Rail"
+  },
+  "280:0": {
+    "alpha": 0,
+    "color": [
+      0.297,
+      0.222,
+      0.084
+    ],
+    "emittance": 0,
+    "name": "Stick"
+  },
+  "281:0": {
+    "alpha": 0,
+    "color": [
+      0.262,
+      0.18,
+      0.029
+    ],
+    "emittance": 0,
+    "name": "Bowl"
+  },
+  "282:0": {
+    "alpha": 0,
+    "color": [
+      0.419,
+      0.296,
+      0.177
+    ],
+    "emittance": 0,
+    "name": "Mushroom Stew"
+  },
+  "283:0": {
+    "alpha": 0,
+    "color": [
+      0.465,
+      0.466,
+      0.212
+    ],
+    "emittance": 0,
+    "name": "Golden Sword"
+  },
+  "284:0": {
+    "alpha": 0,
+    "color": [
+      0.448,
+      0.417,
+      0.169
+    ],
+    "emittance": 0,
+    "name": "Golden Shovel"
+  },
+  "285:0": {
+    "alpha": 0,
+    "color": [
+      0.387,
+      0.355,
+      0.153
+    ],
+    "emittance": 0,
+    "name": "Golden Pickaxe"
+  },
+  "286:0": {
+    "alpha": 0,
+    "color": [
+      0.433,
+      0.403,
+      0.168
+    ],
+    "emittance": 0,
+    "name": "Golden Axe"
+  },
+  "287:0": {
+    "alpha": 0,
+    "color": [
+      0.603,
+      0.603,
+      0.603
+    ],
+    "emittance": 0,
+    "name": "String"
+  },
+  "288:0": {
+    "alpha": 0,
+    "color": [
+      0.792,
+      0.792,
+      0.792
+    ],
+    "emittance": 0,
+    "name": "Feather"
+  },
+  "289:0": {
+    "alpha": 0,
+    "color": [
+      0.311,
+      0.311,
+      0.311
+    ],
+    "emittance": 0,
+    "name": "Gunpowder"
+  },
+  "28:0": {
+    "alpha": 0,
+    "color": [
+      0.471,
+      0.4,
+      0.353
+    ],
+    "emittance": 0,
+    "name": "Detector Rail"
+  },
+  "290:0": {
+    "alpha": 0,
+    "color": [
+      0.311,
+      0.233,
+      0.089
+    ],
+    "emittance": 0,
+    "name": "Wooden Hoe"
+  },
+  "291:0": {
+    "alpha": 0,
+    "color": [
+      0.339,
+      0.292,
+      0.205
+    ],
+    "emittance": 0,
+    "name": "Stone Hoe"
+  },
+  "292:0": {
+    "alpha": 0,
+    "color": [
+      0.385,
+      0.337,
+      0.25
+    ],
+    "emittance": 0,
+    "name": "Iron Hoe"
+  },
+  "293:0": {
+    "alpha": 0,
+    "color": [
+      0.228,
+      0.322,
+      0.21
+    ],
+    "emittance": 0,
+    "name": "Diamond Hoe"
+  },
+  "294:0": {
+    "alpha": 0,
+    "color": [
+      0.373,
+      0.327,
+      0.137
+    ],
+    "emittance": 0,
+    "name": "Golden Hoe"
+  },
+  "295:0": {
+    "alpha": 0,
+    "color": [
+      0.236,
+      0.524,
+      0.107
+    ],
+    "emittance": 0,
+    "name": "Wheat Seeds"
+  },
+  "296:0": {
+    "alpha": 0,
+    "color": [
+      0.483,
+      0.496,
+      0.144
+    ],
+    "emittance": 0,
+    "name": "Wheat"
+  },
+  "297:0": {
+    "alpha": 0,
+    "color": [
+      0.418,
+      0.311,
+      0.097
+    ],
+    "emittance": 0,
+    "name": "Bread"
+  },
+  "298:0": {
+    "alpha": 0,
+    "color": [
+      0.441,
+      0.205,
+      0.117
+    ],
+    "emittance": 0,
+    "name": "Leather Helmet"
+  },
+  "299:0": {
+    "alpha": 0,
+    "color": [
+      0.587,
+      0.272,
+      0.156
+    ],
+    "emittance": 0,
+    "name": "Leather Tunic"
+  },
+  "29:0": {
+    "alpha": 0,
+    "color": [
+      0.324,
+      0.32,
+      0.264
+    ],
+    "emittance": 0,
+    "name": "Sticky Piston"
+  },
+  "300:0": {
+    "alpha": 0,
+    "color": [
+      0.502,
+      0.233,
+      0.133
+    ],
+    "emittance": 0,
+    "name": "Leather Pants"
+  },
+  "301:0": {
+    "alpha": 0,
+    "color": [
+      0.475,
+      0.22,
+      0.126
+    ],
+    "emittance": 0,
+    "name": "Leather Boots"
+  },
+  "302:0": {
+    "alpha": 0,
+    "color": [
+      0.307,
+      0.302,
+      0.3
+    ],
+    "emittance": 0,
+    "name": "Chainmail Helmet"
+  },
+  "303:0": {
+    "alpha": 0,
+    "color": [
+      0.428,
+      0.428,
+      0.428
+    ],
+    "emittance": 0,
+    "name": "Chainmail Chestplate"
+  },
+  "304:0": {
+    "alpha": 0,
+    "color": [
+      0.351,
+      0.351,
+      0.351
+    ],
+    "emittance": 0,
+    "name": "Chainmail Leggings"
+  },
+  "305:0": {
+    "alpha": 0,
+    "color": [
+      0.323,
+      0.323,
+      0.323
+    ],
+    "emittance": 0,
+    "name": "Chainmail Boots"
+  },
+  "306:0": {
+    "alpha": 0,
+    "color": [
+      0.379,
+      0.369,
+      0.366
+    ],
+    "emittance": 0,
+    "name": "Iron Helmet"
+  },
+  "307:0": {
+    "alpha": 0,
+    "color": [
+      0.539,
+      0.539,
+      0.539
+    ],
+    "emittance": 0,
+    "name": "Iron Chestplate"
+  },
+  "308:0": {
+    "alpha": 0,
+    "color": [
+      0.428,
+      0.428,
+      0.428
+    ],
+    "emittance": 0,
+    "name": "Iron Leggings"
+  },
+  "309:0": {
+    "alpha": 0,
+    "color": [
+      0.394,
+      0.394,
+      0.394
+    ],
+    "emittance": 0,
+    "name": "Iron Boots"
+  },
+  "30:0": {
+    "alpha": 0,
+    "color": [
+      0.862,
+      0.862,
+      0.862
+    ],
+    "emittance": 0,
+    "name": "Cobweb"
+  },
+  "310:0": {
+    "alpha": 0,
+    "color": [
+      0.179,
+      0.396,
+      0.353
+    ],
+    "emittance": 0,
+    "name": "Diamond Helmet"
+  },
+  "311:0": {
+    "alpha": 0,
+    "color": [
+      0.175,
+      0.589,
+      0.517
+    ],
+    "emittance": 0,
+    "name": "Diamond Chestplate"
+  },
+  "312:0": {
+    "alpha": 0,
+    "color": [
+      0.17,
+      0.453,
+      0.404
+    ],
+    "emittance": 0,
+    "name": "Diamond Leggings"
+  },
+  "313:0": {
+    "alpha": 0,
+    "color": [
+      0.172,
+      0.41,
+      0.368
+    ],
+    "emittance": 0,
+    "name": "Diamond Boots"
+  },
+  "314:0": {
+    "alpha": 0,
+    "color": [
+      0.45,
+      0.412,
+      0.193
+    ],
+    "emittance": 0,
+    "name": "Golden Helmet"
+  },
+  "315:0": {
+    "alpha": 0,
+    "color": [
+      0.667,
+      0.618,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "Golden Chestplate"
+  },
+  "316:0": {
+    "alpha": 0,
+    "color": [
+      0.529,
+      0.479,
+      0.195
+    ],
+    "emittance": 0,
+    "name": "Golden Leggings"
+  },
+  "317:0": {
+    "alpha": 0,
+    "color": [
+      0.487,
+      0.435,
+      0.188
+    ],
+    "emittance": 0,
+    "name": "Golden Boots"
+  },
+  "318:0": {
+    "alpha": 0,
+    "color": [
+      0.219,
+      0.219,
+      0.219
+    ],
+    "emittance": 0,
+    "name": "Flint"
+  },
+  "319:0": {
+    "alpha": 0,
+    "color": [
+      0.589,
+      0.341,
+      0.341
+    ],
+    "emittance": 0,
+    "name": "Raw Porkchop"
+  },
+  "31:0": {
+    "alpha": 0,
+    "color": [
+      0.485,
+      0.312,
+      0.1
+    ],
+    "emittance": 0,
+    "name": "Dead Shrub"
+  },
+  "31:1": {
+    "alpha": 0,
+    "color": [
+      0.194,
+      0.505,
+      0.147
+    ],
+    "emittance": 0,
+    "name": "Grass"
+  },
+  "31:2": {
+    "alpha": 0,
+    "color": [
+      0.163,
+      0.482,
+      0.161
+    ],
+    "emittance": 0,
+    "name": "Fern"
+  },
+  "320:0": {
+    "alpha": 0,
+    "color": [
+      0.503,
+      0.439,
+      0.302
+    ],
+    "emittance": 0,
+    "name": "Cooked Porkchop"
+  },
+  "321:0": {
+    "alpha": 0,
+    "color": [
+      0.498,
+      0.456,
+      0.384
+    ],
+    "emittance": 0,
+    "name": "Painting"
+  },
+  "322:0": {
+    "alpha": 0,
+    "color": [
+      0.647,
+      0.589,
+      0.223
+    ],
+    "emittance": 0,
+    "name": "Golden Apple"
+  },
+  "322:1": {
+    "alpha": 0,
+    "color": [
+      0.647,
+      0.589,
+      0.223
+    ],
+    "emittance": 0,
+    "name": "Enchanted Golden Apple"
+  },
+  "323:0": {
+    "alpha": 0,
+    "color": [
+      0.441,
+      0.358,
+      0.207
+    ],
+    "emittance": 0,
+    "name": "Sign"
+  },
+  "324:0": {
+    "alpha": 0,
+    "color": [
+      0.54,
+      0.445,
+      0.261
+    ],
+    "emittance": 0,
+    "name": "Oak Door"
+  },
+  "325:0": {
+    "alpha": 0,
+    "color": [
+      0.489,
+      0.489,
+      0.489
+    ],
+    "emittance": 0,
+    "name": "Bucket"
+  },
+  "326:0": {
+    "alpha": 0,
+    "color": [
+      0.423,
+      0.461,
+      0.567
+    ],
+    "emittance": 0,
+    "name": "Water Bucket"
+  },
+  "327:0": {
+    "alpha": 0,
+    "color": [
+      0.568,
+      0.507,
+      0.445
+    ],
+    "emittance": 0,
+    "name": "Lava Bucket"
+  },
+  "328:0": {
+    "alpha": 0,
+    "color": [
+      0.245,
+      0.252,
+      0.262
+    ],
+    "emittance": 0,
+    "name": "Minecart"
+  },
+  "329:0": {
+    "alpha": 0,
+    "color": [
+      0.562,
+      0.269,
+      0.129
+    ],
+    "emittance": 0,
+    "name": "Saddle"
+  },
+  "32:0": {
+    "alpha": 0,
+    "color": [
+      0.485,
+      0.312,
+      0.1
+    ],
+    "emittance": 0,
+    "name": "Dead Bush"
+  },
+  "330:0": {
+    "alpha": 0,
+    "color": [
+      0.727,
+      0.727,
+      0.727
+    ],
+    "emittance": 0,
+    "name": "Iron Door"
+  },
+  "331:0": {
+    "alpha": 0,
+    "color": [
+      0.348,
+      0.0,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Redstone"
+  },
+  "332:0": {
+    "alpha": 0,
+    "color": [
+      0.733,
+      0.768,
+      0.768
+    ],
+    "emittance": 0,
+    "name": "Snowball"
+  },
+  "333:0": {
+    "alpha": 0,
+    "color": [
+      0.279,
+      0.208,
+      0.079
+    ],
+    "emittance": 0,
+    "name": "Boat"
+  },
+  "334:0": {
+    "alpha": 0,
+    "color": [
+      0.557,
+      0.258,
+      0.148
+    ],
+    "emittance": 0,
+    "name": "Leather"
+  },
+  "335:0": {
+    "alpha": 0,
+    "color": [
+      0.606,
+      0.606,
+      0.606
+    ],
+    "emittance": 0,
+    "name": "Milk Bucket"
+  },
+  "336:0": {
+    "alpha": 0,
+    "color": [
+      0.453,
+      0.222,
+      0.158
+    ],
+    "emittance": 0,
+    "name": "Brick"
+  },
+  "337:0": {
+    "alpha": 0,
+    "color": [
+      0.424,
+      0.44,
+      0.508
+    ],
+    "emittance": 0,
+    "name": "Clay"
+  },
+  "338:0": {
+    "alpha": 0,
+    "color": [
+      0.439,
+      0.566,
+      0.299
+    ],
+    "emittance": 0,
+    "name": "Sugar Canes"
+  },
+  "339:0": {
+    "alpha": 0,
+    "color": [
+      0.787,
+      0.787,
+      0.787
+    ],
+    "emittance": 0,
+    "name": "Paper"
+  },
+  "33:0": {
+    "alpha": 0,
+    "color": [
+      0.357,
+      0.32,
+      0.259
+    ],
+    "emittance": 0,
+    "name": "Piston"
+  },
+  "340:0": {
+    "alpha": 0,
+    "color": [
+      0.344,
+      0.284,
+      0.17
+    ],
+    "emittance": 0,
+    "name": "Book"
+  },
+  "341:0": {
+    "alpha": 0,
+    "color": [
+      0.396,
+      0.605,
+      0.362
+    ],
+    "emittance": 0,
+    "name": "Slimeball"
+  },
+  "342:0": {
+    "alpha": 0,
+    "color": [
+      0.354,
+      0.31,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "Minecart with Chest"
+  },
+  "343:0": {
+    "alpha": 0,
+    "color": [
+      0.242,
+      0.246,
+      0.252
+    ],
+    "emittance": 0,
+    "name": "Minecart with Furnace"
+  },
+  "344:0": {
+    "alpha": 0,
+    "color": [
+      0.687,
+      0.634,
+      0.478
+    ],
+    "emittance": 0,
+    "name": "Egg"
+  },
+  "345:0": {
+    "alpha": 0,
+    "color": [
+      0.268,
+      0.244,
+      0.235
+    ],
+    "emittance": 0,
+    "name": "Compass"
+  },
+  "346:0": {
+    "alpha": 0,
+    "color": [
+      0.342,
+      0.301,
+      0.227
+    ],
+    "emittance": 0,
+    "name": "Fishing Rod"
+  },
+  "347:0": {
+    "alpha": 0,
+    "color": [
+      0.546,
+      0.563,
+      0.404
+    ],
+    "emittance": 0,
+    "name": "Clock"
+  },
+  "348:0": {
+    "alpha": 0,
+    "color": [
+      0.584,
+      0.584,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Glowstone Dust"
+  },
+  "349:0": {
+    "alpha": 0,
+    "color": [
+      0.362,
+      0.486,
+      0.483
+    ],
+    "emittance": 0,
+    "name": "Raw Fish"
+  },
+  "349:1": {
+    "alpha": 0,
+    "color": [
+      0.498,
+      0.293,
+      0.276
+    ],
+    "emittance": 0,
+    "name": "Raw Salmon"
+  },
+  "349:2": {
+    "alpha": 0,
+    "color": [
+      0.734,
+      0.428,
+      0.244
+    ],
+    "emittance": 0,
+    "name": "Clownfish"
+  },
+  "349:3": {
+    "alpha": 0,
+    "color": [
+      0.705,
+      0.671,
+      0.169
+    ],
+    "emittance": 0,
+    "name": "Pufferfish"
+  },
+  "34:0": {
+    "alpha": 0,
+    "color": [
+      0.603,
+      0.506,
+      0.349
+    ],
+    "emittance": 0,
+    "name": "Piston Head"
+  },
+  "350:0": {
+    "alpha": 0,
+    "color": [
+      0.514,
+      0.509,
+      0.521
+    ],
+    "emittance": 0,
+    "name": "Cooked Fish"
+  },
+  "350:1": {
+    "alpha": 0,
+    "color": [
+      0.556,
+      0.317,
+      0.173
+    ],
+    "emittance": 0,
+    "name": "Cooked Salmon"
+  },
+  "351:0": {
+    "alpha": 0,
+    "color": [
+      0.184,
+      0.164,
+      0.182
+    ],
+    "emittance": 0,
+    "name": "Ink Sack"
+  },
+  "351:1": {
+    "alpha": 0,
+    "color": [
+      0.627,
+      0.127,
+      0.127
+    ],
+    "emittance": 0,
+    "name": "Rose Red"
+  },
+  "351:10": {
+    "alpha": 0,
+    "color": [
+      0.376,
+      0.636,
+      0.044
+    ],
+    "emittance": 0,
+    "name": "Lime Dye"
+  },
+  "351:11": {
+    "alpha": 0,
+    "color": [
+      0.732,
+      0.636,
+      0.129
+    ],
+    "emittance": 0,
+    "name": "Dandelion Yellow"
+  },
+  "351:12": {
+    "alpha": 0,
+    "color": [
+      0.393,
+      0.55,
+      0.769
+    ],
+    "emittance": 0,
+    "name": "Light Blue Dye"
+  },
+  "351:13": {
+    "alpha": 0,
+    "color": [
+      0.666,
+      0.315,
+      0.644
+    ],
+    "emittance": 0,
+    "name": "Magenta Dye"
+  },
+  "351:14": {
+    "alpha": 0,
+    "color": [
+      0.778,
+      0.486,
+      0.139
+    ],
+    "emittance": 0,
+    "name": "Orange Dye"
+  },
+  "351:15": {
+    "alpha": 0,
+    "color": [
+      0.608,
+      0.608,
+      0.659
+    ],
+    "emittance": 0,
+    "name": "Bone Meal"
+  },
+  "351:2": {
+    "alpha": 0,
+    "color": [
+      0.232,
+      0.335,
+      0.075
+    ],
+    "emittance": 0,
+    "name": "Cactus Green"
+  },
+  "351:3": {
+    "alpha": 0,
+    "color": [
+      0.381,
+      0.23,
+      0.128
+    ],
+    "emittance": 0,
+    "name": "Coco Beans"
+  },
+  "351:4": {
+    "alpha": 0,
+    "color": [
+      0.144,
+      0.291,
+      0.65
+    ],
+    "emittance": 0,
+    "name": "Lapis Lazuli"
+  },
+  "351:5": {
+    "alpha": 0,
+    "color": [
+      0.522,
+      0.241,
+      0.678
+    ],
+    "emittance": 0,
+    "name": "Purple Dye"
+  },
+  "351:6": {
+    "alpha": 0,
+    "color": [
+      0.13,
+      0.405,
+      0.519
+    ],
+    "emittance": 0,
+    "name": "Cyan Dye"
+  },
+  "351:7": {
+    "alpha": 0,
+    "color": [
+      0.565,
+      0.565,
+      0.606
+    ],
+    "emittance": 0,
+    "name": "Light Gray Dye"
+  },
+  "351:8": {
+    "alpha": 0,
+    "color": [
+      0.422,
+      0.422,
+      0.422
+    ],
+    "emittance": 0,
+    "name": "Gray Dye"
+  },
+  "351:9": {
+    "alpha": 0,
+    "color": [
+      0.77,
+      0.48,
+      0.629
+    ],
+    "emittance": 0,
+    "name": "Pink Dye"
+  },
+  "352:0": {
+    "alpha": 0,
+    "color": [
+      0.775,
+      0.771,
+      0.697
+    ],
+    "emittance": 0,
+    "name": "Bone"
+  },
+  "353:0": {
+    "alpha": 0,
+    "color": [
+      0.726,
+      0.726,
+      0.765
+    ],
+    "emittance": 0,
+    "name": "Sugar"
+  },
+  "354:0": {
+    "alpha": 0,
+    "color": [
+      0.664,
+      0.555,
+      0.51
+    ],
+    "emittance": 0,
+    "name": "Cake"
+  },
+  "355:0": {
+    "alpha": 0,
+    "color": [
+      0.492,
+      0.187,
+      0.169
+    ],
+    "emittance": 0,
+    "name": "Bed"
+  },
+  "356:0": {
+    "alpha": 0,
+    "color": [
+      0.424,
+      0.313,
+      0.276
+    ],
+    "emittance": 0,
+    "name": "Redstone Repeater"
+  },
+  "357:0": {
+    "alpha": 0,
+    "color": [
+      0.729,
+      0.443,
+      0.209
+    ],
+    "emittance": 0,
+    "name": "Cookie"
+  },
+  "358:0": {
+    "alpha": 0,
+    "color": [
+      0.676,
+      0.676,
+      0.481
+    ],
+    "emittance": 0,
+    "name": "Map"
+  },
+  "359:0": {
+    "alpha": 0,
+    "color": [
+      0.428,
+      0.37,
+      0.348
+    ],
+    "emittance": 0,
+    "name": "Shears"
+  },
+  "35:0": {
+    "alpha": 0,
+    "color": [
+      0.634,
+      0.634,
+      0.634
+    ],
+    "emittance": 0,
+    "name": "White Wool"
+  },
+  "35:1": {
+    "alpha": 0,
+    "color": [
+      0.671,
+      0.367,
+      0.158
+    ],
+    "emittance": 0,
+    "name": "Orange Wool"
+  },
+  "35:10": {
+    "alpha": 0,
+    "color": [
+      0.372,
+      0.154,
+      0.562
+    ],
+    "emittance": 0,
+    "name": "Purple Wool"
+  },
+  "35:11": {
+    "alpha": 0,
+    "color": [
+      0.111,
+      0.147,
+      0.442
+    ],
+    "emittance": 0,
+    "name": "Blue Wool"
+  },
+  "35:12": {
+    "alpha": 0,
+    "color": [
+      0.246,
+      0.147,
+      0.079
+    ],
+    "emittance": 0,
+    "name": "Brown Wool"
+  },
+  "35:13": {
+    "alpha": 0,
+    "color": [
+      0.16,
+      0.221,
+      0.07
+    ],
+    "emittance": 0,
+    "name": "Green Wool"
+  },
+  "35:14": {
+    "alpha": 0,
+    "color": [
+      0.469,
+      0.128,
+      0.116
+    ],
+    "emittance": 0,
+    "name": "Red Wool"
+  },
+  "35:15": {
+    "alpha": 0,
+    "color": [
+      0.077,
+      0.066,
+      0.066
+    ],
+    "emittance": 0,
+    "name": "Black Wool"
+  },
+  "35:2": {
+    "alpha": 0,
+    "color": [
+      0.546,
+      0.217,
+      0.575
+    ],
+    "emittance": 0,
+    "name": "Magenta Wool"
+  },
+  "35:3": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.4,
+      0.607
+    ],
+    "emittance": 0,
+    "name": "Light Blue Wool"
+  },
+  "35:4": {
+    "alpha": 0,
+    "color": [
+      0.559,
+      0.52,
+      0.081
+    ],
+    "emittance": 0,
+    "name": "Yellow Wool"
+  },
+  "35:5": {
+    "alpha": 0,
+    "color": [
+      0.17,
+      0.542,
+      0.137
+    ],
+    "emittance": 0,
+    "name": "Lime Wool"
+  },
+  "35:6": {
+    "alpha": 0,
+    "color": [
+      0.623,
+      0.38,
+      0.446
+    ],
+    "emittance": 0,
+    "name": "Pink Wool"
+  },
+  "35:7": {
+    "alpha": 0,
+    "color": [
+      0.191,
+      0.191,
+      0.191
+    ],
+    "emittance": 0,
+    "name": "Gray Wool"
+  },
+  "35:8": {
+    "alpha": 0,
+    "color": [
+      0.454,
+      0.475,
+      0.475
+    ],
+    "emittance": 0,
+    "name": "Light Gray Wool"
+  },
+  "35:9": {
+    "alpha": 0,
+    "color": [
+      0.113,
+      0.335,
+      0.429
+    ],
+    "emittance": 0,
+    "name": "Cyan Wool"
+  },
+  "360:0": {
+    "alpha": 0,
+    "color": [
+      0.61,
+      0.357,
+      0.184
+    ],
+    "emittance": 0,
+    "name": "Melon"
+  },
+  "361:0": {
+    "alpha": 0,
+    "color": [
+      0.791,
+      0.783,
+      0.576
+    ],
+    "emittance": 0,
+    "name": "Pumpkin Seeds"
+  },
+  "362:0": {
+    "alpha": 0,
+    "color": [
+      0.224,
+      0.19,
+      0.093
+    ],
+    "emittance": 0,
+    "name": "Melon Seeds"
+  },
+  "363:0": {
+    "alpha": 0,
+    "color": [
+      0.536,
+      0.17,
+      0.149
+    ],
+    "emittance": 0,
+    "name": "Raw Beef"
+  },
+  "364:0": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.172,
+      0.126
+    ],
+    "emittance": 0,
+    "name": "Steak"
+  },
+  "365:0": {
+    "alpha": 0,
+    "color": [
+      0.705,
+      0.538,
+      0.495
+    ],
+    "emittance": 0,
+    "name": "Raw Chicken"
+  },
+  "366:0": {
+    "alpha": 0,
+    "color": [
+      0.54,
+      0.351,
+      0.234
+    ],
+    "emittance": 0,
+    "name": "Cooked Chicken"
+  },
+  "367:0": {
+    "alpha": 0,
+    "color": [
+      0.463,
+      0.231,
+      0.127
+    ],
+    "emittance": 0,
+    "name": "Rotten Flesh"
+  },
+  "368:0": {
+    "alpha": 0,
+    "color": [
+      0.077,
+      0.344,
+      0.3
+    ],
+    "emittance": 0,
+    "name": "Ender Pearl"
+  },
+  "369:0": {
+    "alpha": 0,
+    "color": [
+      0.769,
+      0.529,
+      0.103
+    ],
+    "emittance": 0,
+    "name": "Blaze Rod"
+  },
+  "370:0": {
+    "alpha": 0,
+    "color": [
+      0.517,
+      0.577,
+      0.577
+    ],
+    "emittance": 0,
+    "name": "Ghast Tear"
+  },
+  "371:0": {
+    "alpha": 0,
+    "color": [
+      0.662,
+      0.628,
+      0.157
+    ],
+    "emittance": 0,
+    "name": "Gold Nugget"
+  },
+  "372:0": {
+    "alpha": 0,
+    "color": [
+      0.468,
+      0.112,
+      0.14
+    ],
+    "emittance": 0,
+    "name": "Nether Wart"
+  },
+  "373:0": {
+    "alpha": 0,
+    "color": [
+      0.779,
+      0.729,
+      0.712
+    ],
+    "emittance": 0,
+    "name": "Potion"
+  },
+  "374:0": {
+    "alpha": 0,
+    "color": [
+      0.779,
+      0.729,
+      0.712
+    ],
+    "emittance": 0,
+    "name": "Glass Bottle"
+  },
+  "375:0": {
+    "alpha": 0,
+    "color": [
+      0.331,
+      0.066,
+      0.143
+    ],
+    "emittance": 0,
+    "name": "Spider Eye"
+  },
+  "376:0": {
+    "alpha": 0,
+    "color": [
+      0.446,
+      0.163,
+      0.207
+    ],
+    "emittance": 0,
+    "name": "Fermented Spider Eye"
+  },
+  "377:0": {
+    "alpha": 0,
+    "color": [
+      0.743,
+      0.43,
+      0.074
+    ],
+    "emittance": 0,
+    "name": "Blaze Powder"
+  },
+  "378:0": {
+    "alpha": 0,
+    "color": [
+      0.669,
+      0.507,
+      0.229
+    ],
+    "emittance": 0,
+    "name": "Magma Cream"
+  },
+  "379:0": {
+    "alpha": 0,
+    "color": [
+      0.468,
+      0.46,
+      0.387
+    ],
+    "emittance": 5,
+    "name": "Brewing Stand"
+  },
+  "37:0": {
+    "alpha": 0,
+    "color": [
+      0.419,
+      0.634,
+      0.003
+    ],
+    "emittance": 0,
+    "name": "Dandelion"
+  },
+  "380:0": {
+    "alpha": 0,
+    "color": [
+      0.249,
+      0.249,
+      0.249
+    ],
+    "emittance": 0,
+    "name": "Cauldron"
+  },
+  "381:0": {
+    "alpha": 0,
+    "color": [
+      0.309,
+      0.469,
+      0.37
+    ],
+    "emittance": 0,
+    "name": "Eye of Ender"
+  },
+  "382:0": {
+    "alpha": 0,
+    "color": [
+      0.716,
+      0.426,
+      0.213
+    ],
+    "emittance": 0,
+    "name": "Glistering Melon"
+  },
+  "383:100": {
+    "alpha": 0,
+    "color": [
+      0.552,
+      0.484,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "Spawn Horse"
+  },
+  "383:101": {
+    "alpha": 0,
+    "color": [
+      0.375,
+      0.233,
+      0.157
+    ],
+    "emittance": 0,
+    "name": "Spawn Rabbit"
+  },
+  "383:120": {
+    "alpha": 0,
+    "color": [
+      0.319,
+      0.229,
+      0.191
+    ],
+    "emittance": 0,
+    "name": "Spawn Villager"
+  },
+  "383:50": {
+    "alpha": 0,
+    "color": [
+      0.022,
+      0.284,
+      0.019
+    ],
+    "emittance": 0,
+    "name": "Spawn Creeper"
+  },
+  "383:51": {
+    "alpha": 0,
+    "color": [
+      0.406,
+      0.406,
+      0.406
+    ],
+    "emittance": 0,
+    "name": "Spawn Skeleton"
+  },
+  "383:52": {
+    "alpha": 0,
+    "color": [
+      0.239,
+      0.093,
+      0.083
+    ],
+    "emittance": 0,
+    "name": "Spawn Spider"
+  },
+  "383:54": {
+    "alpha": 0,
+    "color": [
+      0.106,
+      0.451,
+      0.403
+    ],
+    "emittance": 0,
+    "name": "Spawn Zombie"
+  },
+  "383:55": {
+    "alpha": 0,
+    "color": [
+      0.255,
+      0.453,
+      0.207
+    ],
+    "emittance": 0,
+    "name": "Spawn Slime"
+  },
+  "383:56": {
+    "alpha": 0,
+    "color": [
+      0.608,
+      0.608,
+      0.608
+    ],
+    "emittance": 0,
+    "name": "Spawn Ghast"
+  },
+  "383:57": {
+    "alpha": 0,
+    "color": [
+      0.482,
+      0.36,
+      0.297
+    ],
+    "emittance": 0,
+    "name": "Spawn Pigman"
+  },
+  "383:58": {
+    "alpha": 0,
+    "color": [
+      0.038,
+      0.038,
+      0.038
+    ],
+    "emittance": 0,
+    "name": "Spawn Enderman"
+  },
+  "383:59": {
+    "alpha": 0,
+    "color": [
+      0.166,
+      0.132,
+      0.153
+    ],
+    "emittance": 0,
+    "name": "Spawn Cave Spider"
+  },
+  "383:60": {
+    "alpha": 0,
+    "color": [
+      0.238,
+      0.238,
+      0.238
+    ],
+    "emittance": 0,
+    "name": "Spawn Silverfish"
+  },
+  "383:61": {
+    "alpha": 0,
+    "color": [
+      0.664,
+      0.535,
+      0.112
+    ],
+    "emittance": 0,
+    "name": "Spawn Blaze"
+  },
+  "383:62": {
+    "alpha": 0,
+    "color": [
+      0.31,
+      0.214,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Spawn Magma Cube"
+  },
+  "383:65": {
+    "alpha": 0,
+    "color": [
+      0.145,
+      0.121,
+      0.097
+    ],
+    "emittance": 0,
+    "name": "Spawn Bat"
+  },
+  "383:66": {
+    "alpha": 0,
+    "color": [
+      0.163,
+      0.137,
+      0.053
+    ],
+    "emittance": 0,
+    "name": "Spawn Witch"
+  },
+  "383:67": {
+    "alpha": 0,
+    "color": [
+      0.134,
+      0.134,
+      0.134
+    ],
+    "emittance": 0,
+    "name": "Spawn Endermite"
+  },
+  "383:68": {
+    "alpha": 0,
+    "color": [
+      0.372,
+      0.342,
+      0.247
+    ],
+    "emittance": 0,
+    "name": "Spawn Guardian"
+  },
+  "383:90": {
+    "alpha": 0,
+    "color": [
+      0.621,
+      0.382,
+      0.374
+    ],
+    "emittance": 0,
+    "name": "Spawn Pig"
+  },
+  "383:91": {
+    "alpha": 0,
+    "color": [
+      0.637,
+      0.573,
+      0.573
+    ],
+    "emittance": 0,
+    "name": "Spawn Sheep"
+  },
+  "383:92": {
+    "alpha": 0,
+    "color": [
+      0.263,
+      0.238,
+      0.209
+    ],
+    "emittance": 0,
+    "name": "Spawn Cow"
+  },
+  "383:93": {
+    "alpha": 0,
+    "color": [
+      0.511,
+      0.29,
+      0.29
+    ],
+    "emittance": 0,
+    "name": "Spawn Chicken"
+  },
+  "383:94": {
+    "alpha": 0,
+    "color": [
+      0.158,
+      0.225,
+      0.272
+    ],
+    "emittance": 0,
+    "name": "Spawn Squid"
+  },
+  "383:95": {
+    "alpha": 0,
+    "color": [
+      0.565,
+      0.531,
+      0.509
+    ],
+    "emittance": 0,
+    "name": "Spawn Wolf"
+  },
+  "383:96": {
+    "alpha": 0,
+    "color": [
+      0.447,
+      0.186,
+      0.189
+    ],
+    "emittance": 0,
+    "name": "Spawn Mooshroom"
+  },
+  "383:98": {
+    "alpha": 0,
+    "color": [
+      0.499,
+      0.454,
+      0.268
+    ],
+    "emittance": 0,
+    "name": "Spawn Ocelot"
+  },
+  "384:0": {
+    "alpha": 0,
+    "color": [
+      0.561,
+      0.626,
+      0.26
+    ],
+    "emittance": 0,
+    "name": "Bottle o' Enchanting"
+  },
+  "385:0": {
+    "alpha": 0,
+    "color": [
+      0.227,
+      0.155,
+      0.079
+    ],
+    "emittance": 0,
+    "name": "Fire Charge"
+  },
+  "386:0": {
+    "alpha": 0,
+    "color": [
+      0.492,
+      0.414,
+      0.371
+    ],
+    "emittance": 0,
+    "name": "Book and Quill"
+  },
+  "387:0": {
+    "alpha": 0,
+    "color": [
+      0.37,
+      0.22,
+      0.167
+    ],
+    "emittance": 0,
+    "name": "Written Book"
+  },
+  "388:0": {
+    "alpha": 0,
+    "color": [
+      0.181,
+      0.657,
+      0.313
+    ],
+    "emittance": 0,
+    "name": "Emerald"
+  },
+  "389:0": {
+    "alpha": 0,
+    "color": [
+      0.43,
+      0.317,
+      0.191
+    ],
+    "emittance": 0,
+    "name": "Item Frame"
+  },
+  "38:0": {
+    "alpha": 0,
+    "color": [
+      0.394,
+      0.232,
+      0.017
+    ],
+    "emittance": 0,
+    "name": "Poppy"
+  },
+  "38:1": {
+    "alpha": 0,
+    "color": [
+      0.147,
+      0.596,
+      0.542
+    ],
+    "emittance": 0,
+    "name": "Blue Orchid"
+  },
+  "38:2": {
+    "alpha": 0,
+    "color": [
+      0.701,
+      0.549,
+      0.84
+    ],
+    "emittance": 0,
+    "name": "Allium"
+  },
+  "38:3": {
+    "alpha": 0,
+    "color": [
+      0.639,
+      0.753,
+      0.547
+    ],
+    "emittance": 0,
+    "name": "Azure Bluet"
+  },
+  "38:4": {
+    "alpha": 0,
+    "color": [
+      0.394,
+      0.538,
+      0.154
+    ],
+    "emittance": 0,
+    "name": "Red Tulip"
+  },
+  "38:5": {
+    "alpha": 0,
+    "color": [
+      0.36,
+      0.53,
+      0.126
+    ],
+    "emittance": 0,
+    "name": "Orange Tulip"
+  },
+  "38:6": {
+    "alpha": 0,
+    "color": [
+      0.365,
+      0.597,
+      0.25
+    ],
+    "emittance": 0,
+    "name": "White Tulip"
+  },
+  "38:7": {
+    "alpha": 0,
+    "color": [
+      0.395,
+      0.588,
+      0.284
+    ],
+    "emittance": 0,
+    "name": "Pink Tulip"
+  },
+  "38:8": {
+    "alpha": 0,
+    "color": [
+      0.698,
+      0.779,
+      0.553
+    ],
+    "emittance": 0,
+    "name": "Oxeye Daisy"
+  },
+  "390:0": {
+    "alpha": 0,
+    "color": [
+      0.402,
+      0.212,
+      0.162
+    ],
+    "emittance": 0,
+    "name": "Flower Pot"
+  },
+  "391:0": {
+    "alpha": 0,
+    "color": [
+      0.593,
+      0.47,
+      0.084
+    ],
+    "emittance": 0,
+    "name": "Carrot"
+  },
+  "392:0": {
+    "alpha": 0,
+    "color": [
+      0.824,
+      0.631,
+      0.305
+    ],
+    "emittance": 0,
+    "name": "Potato"
+  },
+  "393:0": {
+    "alpha": 0,
+    "color": [
+      0.794,
+      0.541,
+      0.254
+    ],
+    "emittance": 0,
+    "name": "Baked Potato"
+  },
+  "394:0": {
+    "alpha": 0,
+    "color": [
+      0.759,
+      0.707,
+      0.285
+    ],
+    "emittance": 0,
+    "name": "Poisonous Potato"
+  },
+  "395:0": {
+    "alpha": 0,
+    "color": [
+      0.787,
+      0.787,
+      0.562
+    ],
+    "emittance": 0,
+    "name": "Empty Map"
+  },
+  "396:0": {
+    "alpha": 0,
+    "color": [
+      0.626,
+      0.478,
+      0.094
+    ],
+    "emittance": 0,
+    "name": "Golden Carrot"
+  },
+  "397:0": {
+    "alpha": 0,
+    "color": [
+      0.486,
+      0.486,
+      0.486
+    ],
+    "emittance": 0,
+    "name": "Mob Head (Skeleton)"
+  },
+  "397:1": {
+    "alpha": 0,
+    "color": [
+      0.139,
+      0.143,
+      0.143
+    ],
+    "emittance": 0,
+    "name": "Mob Head (Wither Skeleton)"
+  },
+  "397:2": {
+    "alpha": 0,
+    "color": [
+      0.25,
+      0.37,
+      0.189
+    ],
+    "emittance": 0,
+    "name": "Mob Head (Zombie)"
+  },
+  "397:3": {
+    "alpha": 0,
+    "color": [
+      0.409,
+      0.284,
+      0.22
+    ],
+    "emittance": 0,
+    "name": "Mob Head (Human)"
+  },
+  "397:4": {
+    "alpha": 0,
+    "color": [
+      0.259,
+      0.445,
+      0.235
+    ],
+    "emittance": 0,
+    "name": "Mob Head (Creeper)"
+  },
+  "398:0": {
+    "alpha": 0,
+    "color": [
+      0.364,
+      0.282,
+      0.151
+    ],
+    "emittance": 0,
+    "name": "Carrot on a Stick"
+  },
+  "399:0": {
+    "alpha": 0,
+    "color": [
+      0.649,
+      0.711,
+      0.644
+    ],
+    "emittance": 0,
+    "name": "Nether Star"
+  },
+  "39:0": {
+    "alpha": 0,
+    "color": [
+      0.544,
+      0.415,
+      0.329
+    ],
+    "emittance": 5,
+    "name": "Brown Mushroom"
+  },
+  "3:0": {
+    "alpha": 0,
+    "color": [
+      0.384,
+      0.274,
+      0.189
+    ],
+    "emittance": 0,
+    "name": "Dirt"
+  },
+  "3:1": {
+    "alpha": 0,
+    "color": [
+      0.313,
+      0.223,
+      0.154
+    ],
+    "emittance": 0,
+    "name": "Coarse Dirt"
+  },
+  "3:2": {
+    "alpha": 0,
+    "color": [
+      0.291,
+      0.204,
+      0.127
+    ],
+    "emittance": 0,
+    "name": "Podzol"
+  },
+  "400:0": {
+    "alpha": 0,
+    "color": [
+      0.833,
+      0.51,
+      0.268
+    ],
+    "emittance": 0,
+    "name": "Pumpkin Pie"
+  },
+  "401:0": {
+    "alpha": 0,
+    "color": [
+      0.626,
+      0.367,
+      0.323
+    ],
+    "emittance": 0,
+    "name": "Firework Rocket"
+  },
+  "402:0": {
+    "alpha": 0,
+    "color": [
+      0.363,
+      0.363,
+      0.363
+    ],
+    "emittance": 0,
+    "name": "Firework Star"
+  },
+  "403:0": {
+    "alpha": 0,
+    "color": [
+      0.44,
+      0.3,
+      0.197
+    ],
+    "emittance": 0,
+    "name": "Enchanted Book"
+  },
+  "404:0": {
+    "alpha": 0,
+    "color": [
+      0.414,
+      0.307,
+      0.263
+    ],
+    "emittance": 0,
+    "name": "Redstone Comparator"
+  },
+  "405:0": {
+    "alpha": 0,
+    "color": [
+      0.212,
+      0.108,
+      0.127
+    ],
+    "emittance": 0,
+    "name": "Nether Brick"
+  },
+  "406:0": {
+    "alpha": 0,
+    "color": [
+      0.703,
+      0.653,
+      0.612
+    ],
+    "emittance": 0,
+    "name": "Nether Quartz"
+  },
+  "407:0": {
+    "alpha": 0,
+    "color": [
+      0.382,
+      0.251,
+      0.209
+    ],
+    "emittance": 0,
+    "name": "Minecart with TNT"
+  },
+  "408:0": {
+    "alpha": 0,
+    "color": [
+      0.225,
+      0.229,
+      0.236
+    ],
+    "emittance": 0,
+    "name": "Minecart with Hopper"
+  },
+  "409:0": {
+    "alpha": 0,
+    "color": [
+      0.399,
+      0.623,
+      0.557
+    ],
+    "emittance": 0,
+    "name": "Prismarine Shard"
+  },
+  "40:0": {
+    "alpha": 0,
+    "color": [
+      0.769,
+      0.201,
+      0.211
+    ],
+    "emittance": 0,
+    "name": "Red Mushroom"
+  },
+  "410:0": {
+    "alpha": 0,
+    "color": [
+      0.552,
+      0.702,
+      0.656
+    ],
+    "emittance": 0,
+    "name": "Prismarine Crystals"
+  },
+  "411:0": {
+    "alpha": 0,
+    "color": [
+      0.838,
+      0.668,
+      0.609
+    ],
+    "emittance": 0,
+    "name": "Raw Rabbit"
+  },
+  "412:0": {
+    "alpha": 0,
+    "color": [
+      0.668,
+      0.432,
+      0.287
+    ],
+    "emittance": 0,
+    "name": "Cooked Rabbit"
+  },
+  "413:0": {
+    "alpha": 0,
+    "color": [
+      0.435,
+      0.287,
+      0.144
+    ],
+    "emittance": 0,
+    "name": "Rabbit Stew"
+  },
+  "414:0": {
+    "alpha": 0,
+    "color": [
+      0.664,
+      0.514,
+      0.341
+    ],
+    "emittance": 0,
+    "name": "Rabbit's Foot"
+  },
+  "415:0": {
+    "alpha": 0,
+    "color": [
+      0.612,
+      0.472,
+      0.317
+    ],
+    "emittance": 0,
+    "name": "Rabbit Hide"
+  },
+  "416:0": {
+    "alpha": 0,
+    "color": [
+      0.42,
+      0.345,
+      0.227
+    ],
+    "emittance": 0,
+    "name": "Armor Stand"
+  },
+  "417:0": {
+    "alpha": 0,
+    "color": [
+      0.295,
+      0.295,
+      0.295
+    ],
+    "emittance": 0,
+    "name": "Iron Horse Armor"
+  },
+  "418:0": {
+    "alpha": 0,
+    "color": [
+      0.496,
+      0.295,
+      0.043
+    ],
+    "emittance": 0,
+    "name": "Golden Horse Armor"
+  },
+  "419:0": {
+    "alpha": 0,
+    "color": [
+      0.236,
+      0.347,
+      0.462
+    ],
+    "emittance": 0,
+    "name": "Diamond Horse Armor"
+  },
+  "420:0": {
+    "alpha": 0,
+    "color": [
+      0.557,
+      0.417,
+      0.317
+    ],
+    "emittance": 0,
+    "name": "Lead"
+  },
+  "421:0": {
+    "alpha": 0,
+    "color": [
+      0.62,
+      0.561,
+      0.453
+    ],
+    "emittance": 0,
+    "name": "Name Tag"
+  },
+  "422:0": {
+    "alpha": 0,
+    "color": [
+      0.395,
+      0.342,
+      0.303
+    ],
+    "emittance": 0,
+    "name": "Minecart with Command Block"
+  },
+  "423:0": {
+    "alpha": 0,
+    "color": [
+      0.686,
+      0.237,
+      0.212
+    ],
+    "emittance": 0,
+    "name": "Raw Mutton"
+  },
+  "424:0": {
+    "alpha": 0,
+    "color": [
+      0.429,
+      0.258,
+      0.192
+    ],
+    "emittance": 0,
+    "name": "Cooked Mutton"
+  },
+  "425:0": {
+    "alpha": 0,
+    "color": [
+      0.591,
+      0.589,
+      0.586
+    ],
+    "emittance": 0,
+    "name": "Banner"
+  },
+  "427:0": {
+    "alpha": 0,
+    "color": [
+      0.419,
+      0.328,
+      0.225
+    ],
+    "emittance": 0,
+    "name": "Spruce Door"
+  },
+  "428:0": {
+    "alpha": 0,
+    "color": [
+      0.819,
+      0.786,
+      0.62
+    ],
+    "emittance": 0,
+    "name": "Birch Door"
+  },
+  "429:0": {
+    "alpha": 0,
+    "color": [
+      0.667,
+      0.486,
+      0.353
+    ],
+    "emittance": 0,
+    "name": "Jungle Door"
+  },
+  "42:0": {
+    "alpha": 0,
+    "color": [
+      0.664,
+      0.664,
+      0.664
+    ],
+    "emittance": 0,
+    "name": "Iron Block"
+  },
+  "430:0": {
+    "alpha": 0,
+    "color": [
+      0.616,
+      0.355,
+      0.224
+    ],
+    "emittance": 0,
+    "name": "Acacia Door"
+  },
+  "431:0": {
+    "alpha": 0,
+    "color": [
+      0.259,
+      0.172,
+      0.081
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Door"
+  },
+  "43:0": {
+    "alpha": 0,
+    "color": [
+      0.474,
+      0.474,
+      0.474
+    ],
+    "emittance": 0,
+    "name": "Double Stone Slab"
+  },
+  "43:2": {
+    "alpha": 0,
+    "color": [
+      0.45,
+      0.367,
+      0.226
+    ],
+    "emittance": 0,
+    "name": "Double Wooden Slab"
+  },
+  "43:3": {
+    "alpha": 0,
+    "color": [
+      0.341,
+      0.341,
+      0.341
+    ],
+    "emittance": 0,
+    "name": "Double Cobblestone Slab"
+  },
+  "43:4": {
+    "alpha": 0,
+    "color": [
+      0.413,
+      0.278,
+      0.242
+    ],
+    "emittance": 0,
+    "name": "Double Brick Slab"
+  },
+  "43:5": {
+    "alpha": 0,
+    "color": [
+      0.346,
+      0.346,
+      0.346
+    ],
+    "emittance": 0,
+    "name": "Double Stone Brick Slab"
+  },
+  "43:6": {
+    "alpha": 0,
+    "color": [
+      0.149,
+      0.075,
+      0.088
+    ],
+    "emittance": 0,
+    "name": "Double Nether Brick Slab"
+  },
+  "43:7": {
+    "alpha": 0,
+    "color": [
+      0.614,
+      0.606,
+      0.589
+    ],
+    "emittance": 0,
+    "name": "Double Quartz Slab"
+  },
+  "44:0": {
+    "alpha": 0,
+    "color": [
+      0.508,
+      0.508,
+      0.508
+    ],
+    "emittance": 0,
+    "name": "Stone Slab"
+  },
+  "44:2": {
+    "alpha": 0,
+    "color": [
+      0.488,
+      0.397,
+      0.245
+    ],
+    "emittance": 0,
+    "name": "Wooden Slab"
+  },
+  "44:3": {
+    "alpha": 0,
+    "color": [
+      0.379,
+      0.379,
+      0.379
+    ],
+    "emittance": 0,
+    "name": "Cobblestone Slab"
+  },
+  "44:4": {
+    "alpha": 0,
+    "color": [
+      0.429,
+      0.29,
+      0.251
+    ],
+    "emittance": 0,
+    "name": "Brick Slab"
+  },
+  "44:5": {
+    "alpha": 0,
+    "color": [
+      0.351,
+      0.351,
+      0.351
+    ],
+    "emittance": 0,
+    "name": "Stone Brick Slab"
+  },
+  "44:6": {
+    "alpha": 0,
+    "color": [
+      0.127,
+      0.064,
+      0.075
+    ],
+    "emittance": 0,
+    "name": "Nether Brick Slab"
+  },
+  "44:7": {
+    "alpha": 0,
+    "color": [
+      0.69,
+      0.681,
+      0.661
+    ],
+    "emittance": 0,
+    "name": "Quartz Slab"
+  },
+  "45:0": {
+    "alpha": 0,
+    "color": [
+      0.413,
+      0.278,
+      0.242
+    ],
+    "emittance": 0,
+    "name": "Bricks"
+  },
+  "46:0": {
+    "alpha": 0,
+    "color": [
+      0.439,
+      0.244,
+      0.19
+    ],
+    "emittance": 0,
+    "name": "TNT"
+  },
+  "47:0": {
+    "alpha": 0,
+    "color": [
+      0.374,
+      0.301,
+      0.193
+    ],
+    "emittance": 0,
+    "name": "Bookshelf"
+  },
+  "48:0": {
+    "alpha": 0,
+    "color": [
+      0.359,
+      0.411,
+      0.359
+    ],
+    "emittance": 0,
+    "name": "Moss Stone"
+  },
+  "49:0": {
+    "alpha": 0,
+    "color": [
+      0.056,
+      0.052,
+      0.084
+    ],
+    "emittance": 0,
+    "name": "Obsidian"
+  },
+  "4:0": {
+    "alpha": 0,
+    "color": [
+      0.341,
+      0.341,
+      0.341
+    ],
+    "emittance": 0,
+    "name": "Cobblestone"
+  },
+  "50:0": {
+    "alpha": 0,
+    "color": [
+      0.505,
+      0.411,
+      0.227
+    ],
+    "emittance": 5,
+    "name": "Torch"
+  },
+  "51:0": {
+    "alpha": 0,
+    "color": [
+      0.826,
+      0.557,
+      0.278
+    ],
+    "emittance": 5,
+    "name": "Fire"
+  },
+  "52:0": {
+    "alpha": 0,
+    "color": [
+      0.089,
+      0.132,
+      0.164
+    ],
+    "emittance": 0,
+    "name": "Monster Spawner"
+  },
+  "53:0": {
+    "alpha": 0,
+    "color": [
+      0.464,
+      0.378,
+      0.233
+    ],
+    "emittance": 0,
+    "name": "Oak Wood Stairs"
+  },
+  "54:0": {
+    "alpha": 0,
+    "color": [
+      0.376,
+      0.272,
+      0.109
+    ],
+    "emittance": 0,
+    "name": "Chest"
+  },
+  "55:0": {
+    "alpha": 0,
+    "color": [
+      0.823,
+      0.0,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Redstone Wire"
+  },
+  "56:0": {
+    "alpha": 0,
+    "color": [
+      0.369,
+      0.395,
+      0.403
+    ],
+    "emittance": 0,
+    "name": "Diamond Ore"
+  },
+  "57:0": {
+    "alpha": 0,
+    "color": [
+      0.325,
+      0.642,
+      0.628
+    ],
+    "emittance": 0,
+    "name": "Diamond Block"
+  },
+  "58:0": {
+    "alpha": 0,
+    "color": [
+      0.314,
+      0.241,
+      0.148
+    ],
+    "emittance": 0,
+    "name": "Crafting Table"
+  },
+  "59:0": {
+    "alpha": 0,
+    "color": [
+      0.339,
+      0.401,
+      0.03
+    ],
+    "emittance": 0,
+    "name": "Wheat Crops"
+  },
+  "5:0": {
+    "alpha": 0,
+    "color": [
+      0.45,
+      0.367,
+      0.226
+    ],
+    "emittance": 0,
+    "name": "Oak Wood Plank"
+  },
+  "5:1": {
+    "alpha": 0,
+    "color": [
+      0.27,
+      0.202,
+      0.121
+    ],
+    "emittance": 0,
+    "name": "Spruce Wood Plank"
+  },
+  "5:2": {
+    "alpha": 0,
+    "color": [
+      0.508,
+      0.466,
+      0.32
+    ],
+    "emittance": 0,
+    "name": "Birch Wood Plank"
+  },
+  "5:3": {
+    "alpha": 0,
+    "color": [
+      0.4,
+      0.287,
+      0.2
+    ],
+    "emittance": 0,
+    "name": "Jungle Wood Plank"
+  },
+  "5:4": {
+    "alpha": 0,
+    "color": [
+      0.431,
+      0.233,
+      0.13
+    ],
+    "emittance": 0,
+    "name": "Acacia Wood Plank"
+  },
+  "5:5": {
+    "alpha": 0,
+    "color": [
+      0.158,
+      0.102,
+      0.047
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Wood Plank"
+  },
+  "60:0": {
+    "alpha": 0,
+    "color": [
+      0.366,
+      0.254,
+      0.167
+    ],
+    "emittance": 0,
+    "name": "Farmland"
+  },
+  "61:0": {
+    "alpha": 0,
+    "color": [
+      0.264,
+      0.264,
+      0.264
+    ],
+    "emittance": 0,
+    "name": "Furnace"
+  },
+  "62:0": {
+    "alpha": 0,
+    "color": [
+      0.265,
+      0.247,
+      0.235
+    ],
+    "emittance": 5,
+    "name": "Burning Furnace"
+  },
+  "63:0": {
+    "alpha": 0,
+    "color": [
+      0.441,
+      0.358,
+      0.207
+    ],
+    "emittance": 0,
+    "name": "Standing Sign Block"
+  },
+  "64:0": {
+    "alpha": 0,
+    "color": [
+      0.54,
+      0.445,
+      0.261
+    ],
+    "emittance": 0,
+    "name": "Oak Door Block"
+  },
+  "65:0": {
+    "alpha": 0,
+    "color": [
+      0.477,
+      0.375,
+      0.208
+    ],
+    "emittance": 0,
+    "name": "Ladder"
+  },
+  "66:0": {
+    "alpha": 0,
+    "color": [
+      0.476,
+      0.429,
+      0.351
+    ],
+    "emittance": 0,
+    "name": "Rail"
+  },
+  "67:0": {
+    "alpha": 0,
+    "color": [
+      0.353,
+      0.353,
+      0.353
+    ],
+    "emittance": 0,
+    "name": "Cobblestone Stairs"
+  },
+  "68:0": {
+    "alpha": 0,
+    "color": [
+      0.441,
+      0.358,
+      0.207
+    ],
+    "emittance": 0,
+    "name": "Wall-mounted Sign Block"
+  },
+  "69:0": {
+    "alpha": 0,
+    "color": [
+      0.414,
+      0.346,
+      0.245
+    ],
+    "emittance": 0,
+    "name": "Lever"
+  },
+  "6:0": {
+    "alpha": 0,
+    "color": [
+      0.266,
+      0.434,
+      0.072
+    ],
+    "emittance": 0,
+    "name": "Oak Sapling"
+  },
+  "6:1": {
+    "alpha": 0,
+    "color": [
+      0.201,
+      0.228,
+      0.133
+    ],
+    "emittance": 0,
+    "name": "Spruce Sapling"
+  },
+  "6:2": {
+    "alpha": 0,
+    "color": [
+      0.465,
+      0.591,
+      0.332
+    ],
+    "emittance": 0,
+    "name": "Birch Sapling"
+  },
+  "6:3": {
+    "alpha": 0,
+    "color": [
+      0.192,
+      0.34,
+      0.073
+    ],
+    "emittance": 0,
+    "name": "Jungle Sapling"
+  },
+  "6:4": {
+    "alpha": 0,
+    "color": [
+      0.449,
+      0.456,
+      0.082
+    ],
+    "emittance": 0,
+    "name": "Acacia Sapling"
+  },
+  "6:5": {
+    "alpha": 0,
+    "color": [
+      0.219,
+      0.339,
+      0.11
+    ],
+    "emittance": 0,
+    "name": "Dark Oak Sapling"
+  },
+  "70:0": {
+    "alpha": 0,
+    "color": [
+      0.428,
+      0.428,
+      0.428
+    ],
+    "emittance": 0,
+    "name": "Stone Pressure Plate"
+  },
+  "71:0": {
+    "alpha": 0,
+    "color": [
+      0.727,
+      0.727,
+      0.727
+    ],
+    "emittance": 0,
+    "name": "Iron Door Block"
+  },
+  "72:0": {
+    "alpha": 0,
+    "color": [
+      0.532,
+      0.433,
+      0.267
+    ],
+    "emittance": 0,
+    "name": "Wooden Pressure Plate"
+  },
+  "73:0": {
+    "alpha": 0,
+    "color": [
+      0.377,
+      0.319,
+      0.319
+    ],
+    "emittance": 0,
+    "name": "Redstone Ore"
+  },
+  "74:0": {
+    "alpha": 0,
+    "color": [
+      0.377,
+      0.319,
+      0.319
+    ],
+    "emittance": 0,
+    "name": "Glowing Redstone Ore"
+  },
+  "75:0": {
+    "alpha": 0,
+    "color": [
+      0.362,
+      0.242,
+      0.147
+    ],
+    "emittance": 0,
+    "name": "Redstone Torch (off)"
+  },
+  "76:0": {
+    "alpha": 0,
+    "color": [
+      0.672,
+      0.275,
+      0.15
+    ],
+    "emittance": 0,
+    "name": "Redstone Torch (on)"
+  },
+  "77:0": {
+    "alpha": 0,
+    "color": [
+      0.38,
+      0.38,
+      0.38
+    ],
+    "emittance": 0,
+    "name": "Stone Button"
+  },
+  "78:0": {
+    "alpha": 0,
+    "color": [
+      0.687,
+      0.721,
+      0.721
+    ],
+    "emittance": 0,
+    "name": "Snow"
+  },
+  "79:0": {
+    "alpha": 0.5,
+    "color": [
+      0.356,
+      0.496,
+      0.733
+    ],
+    "emittance": 0,
+    "name": "Ice"
+  },
+  "7:0": {
+    "alpha": 0,
+    "color": [
+      0.243,
+      0.243,
+      0.243
+    ],
+    "emittance": 0,
+    "name": "Bedrock"
+  },
+  "80:0": {
+    "alpha": 0,
+    "color": [
+      0.687,
+      0.721,
+      0.721
+    ],
+    "emittance": 0,
+    "name": "Snow Block"
+  },
+  "81:0": {
+    "alpha": 0,
+    "color": [
+      0.037,
+      0.276,
+      0.067
+    ],
+    "emittance": 0,
+    "name": "Cactus"
+  },
+  "82:0": {
+    "alpha": 0,
+    "color": [
+      0.449,
+      0.465,
+      0.499
+    ],
+    "emittance": 0,
+    "name": "Clay"
+  },
+  "83:0": {
+    "alpha": 0,
+    "color": [
+      0.583,
+      0.756,
+      0.396
+    ],
+    "emittance": 0,
+    "name": "Sugar Canes"
+  },
+  "84:0": {
+    "alpha": 0,
+    "color": [
+      0.305,
+      0.206,
+      0.154
+    ],
+    "emittance": 0,
+    "name": "Jukebox"
+  },
+  "85:0": {
+    "alpha": 0,
+    "color": [
+      0.418,
+      0.341,
+      0.209
+    ],
+    "emittance": 0,
+    "name": "Oak Fence"
+  },
+  "86:0": {
+    "alpha": 0,
+    "color": [
+      0.511,
+      0.304,
+      0.055
+    ],
+    "emittance": 0,
+    "name": "Pumpkin"
+  },
+  "88:0": {
+    "alpha": 0,
+    "color": [
+      0.23,
+      0.172,
+      0.136
+    ],
+    "emittance": 0,
+    "name": "Soul Sand"
+  },
+  "89:0": {
+    "alpha": 0,
+    "color": [
+      0.386,
+      0.315,
+      0.178
+    ],
+    "emittance": 0,
+    "name": "Glowstone"
+  },
+  "8:0": {
+    "alpha": 0.5,
+    "color": [
+      0.103,
+      0.234,
+      0.639
+    ],
+    "emittance": 0,
+    "name": "Flowing Water"
+  },
+  "91:0": {
+    "alpha": 0,
+    "color": [
+      0.553,
+      0.354,
+      0.068
+    ],
+    "emittance": 5,
+    "name": "Jack o'Lantern"
+  },
+  "92:0": {
+    "alpha": 0,
+    "color": [
+      0.897,
+      0.808,
+      0.812
+    ],
+    "emittance": 0,
+    "name": "Cake Block"
+  },
+  "93:0": {
+    "alpha": 0,
+    "color": [
+      0.6,
+      0.587,
+      0.587
+    ],
+    "emittance": 0,
+    "name": "Redstone Repeater Block (off)"
+  },
+  "94:0": {
+    "alpha": 0,
+    "color": [
+      0.63,
+      0.588,
+      0.589
+    ],
+    "emittance": 0,
+    "name": "Redstone Repeater Block (on)"
+  },
+  "95:0": {
+    "alpha": 0.5,
+    "color": [
+      0.645,
+      0.645,
+      0.645
+    ],
+    "emittance": 0,
+    "name": "White Stained Glass"
+  },
+  "95:1": {
+    "alpha": 0.5,
+    "color": [
+      0.599,
+      0.28,
+      0.008
+    ],
+    "emittance": 0,
+    "name": "Orange Stained Glass"
+  },
+  "95:10": {
+    "alpha": 0.5,
+    "color": [
+      0.261,
+      0.0,
+      0.471
+    ],
+    "emittance": 0,
+    "name": "Purple Stained Glass"
+  },
+  "95:11": {
+    "alpha": 0.5,
+    "color": [
+      0.0,
+      0.096,
+      0.468
+    ],
+    "emittance": 0,
+    "name": "Blue Stained Glass"
+  },
+  "95:12": {
+    "alpha": 0.5,
+    "color": [
+      0.187,
+      0.096,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Brown Stained Glass"
+  },
+  "95:13": {
+    "alpha": 0.5,
+    "color": [
+      0.187,
+      0.279,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Green Stained Glass"
+  },
+  "95:14": {
+    "alpha": 0.5,
+    "color": [
+      0.375,
+      0.0,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Red Stained Glass"
+  },
+  "95:15": {
+    "alpha": 0.5,
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Black Stained Glass"
+  },
+  "95:2": {
+    "alpha": 0.5,
+    "color": [
+      0.443,
+      0.051,
+      0.589
+    ],
+    "emittance": 0,
+    "name": "Magenta Stained Glass"
+  },
+  "95:3": {
+    "alpha": 0.5,
+    "color": [
+      0.094,
+      0.312,
+      0.579
+    ],
+    "emittance": 0,
+    "name": "Light Blue Stained Glass"
+  },
+  "95:4": {
+    "alpha": 0.5,
+    "color": [
+      0.621,
+      0.621,
+      0.03
+    ],
+    "emittance": 0,
+    "name": "Yellow Stained Glass"
+  },
+  "95:5": {
+    "alpha": 0.5,
+    "color": [
+      0.309,
+      0.544,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Lime Stained Glass"
+  },
+  "95:6": {
+    "alpha": 0.5,
+    "color": [
+      0.649,
+      0.142,
+      0.307
+    ],
+    "emittance": 0,
+    "name": "Pink Stained Glass"
+  },
+  "95:7": {
+    "alpha": 0.5,
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emittance": 0,
+    "name": "Gray Stained Glass"
+  },
+  "95:8": {
+    "alpha": 0.5,
+    "color": [
+      0.292,
+      0.292,
+      0.292
+    ],
+    "emittance": 0,
+    "name": "Light Gray Stained Glass"
+  },
+  "95:9": {
+    "alpha": 0.5,
+    "color": [
+      0.0,
+      0.234,
+      0.358
+    ],
+    "emittance": 0,
+    "name": "Cyan Stained Glass"
+  },
+  "96:0": {
+    "alpha": 0,
+    "color": [
+      0.451,
+      0.334,
+      0.165
+    ],
+    "emittance": 0,
+    "name": "Wooden Trapdoor"
+  },
+  "97:0": {
+    "alpha": 0,
+    "color": [
+      0.361,
+      0.361,
+      0.361
+    ],
+    "emittance": 0,
+    "name": "Stone Monster Egg"
+  },
+  "97:1": {
+    "alpha": 0,
+    "color": [
+      0.341,
+      0.341,
+      0.341
+    ],
+    "emittance": 0,
+    "name": "Cobblestone Monster Egg"
+  },
+  "97:2": {
+    "alpha": 0,
+    "color": [
+      0.346,
+      0.346,
+      0.346
+    ],
+    "emittance": 0,
+    "name": "Stone Brick Monster Egg"
+  },
+  "97:3": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.308,
+      0.289
+    ],
+    "emittance": 0,
+    "name": "Mossy Stone Brick Monster Egg"
+  },
+  "97:4": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.301,
+      0.301
+    ],
+    "emittance": 0,
+    "name": "Cracked Stone Brick Monster Egg"
+  },
+  "97:5": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.301,
+      0.301
+    ],
+    "emittance": 0,
+    "name": "Chiseled Stone Brick Monster Egg"
+  },
+  "98:0": {
+    "alpha": 0,
+    "color": [
+      0.346,
+      0.346,
+      0.346
+    ],
+    "emittance": 0,
+    "name": "Stone Bricks"
+  },
+  "98:2": {
+    "alpha": 0,
+    "color": [
+      0.304,
+      0.304,
+      0.304
+    ],
+    "emittance": 0,
+    "name": "Cracked Stone Bricks"
+  },
+  "98:3": {
+    "alpha": 0,
+    "color": [
+      0.301,
+      0.301,
+      0.301
+    ],
+    "emittance": 0,
+    "name": "Chiseled Stone Bricks"
+  },
+  "99:0": {
+    "alpha": 0,
+    "color": [
+      0.352,
+      0.265,
+      0.207
+    ],
+    "emittance": 0,
+    "name": "Brown Mushroom Block"
+  },
+  "9:0": {
+    "alpha": 0.5,
+    "color": [
+      0.103,
+      0.234,
+      0.639
+    ],
+    "emittance": 0,
+    "name": "Still Water"
+  }
+}

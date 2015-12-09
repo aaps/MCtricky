@@ -48,6 +48,7 @@ for arow in soup.find_all("tr", class_="row"):
 		tofind = arow.find_all("td", class_="id")[0].getText().split(":")
 		if len(tofind) < 2:
 		 	tofind.append("0")
+		tofind = int(tofind[0]), int(tofind[1])
 		newcolors = []
 		if allcolors:
 			for color in allcolors:
@@ -57,11 +58,11 @@ for arow in soup.find_all("tr", class_="row"):
 						newcolors.append((color[1][0], color[1][1], color[1][2]))
 			avgcolor = tuple(map(lambda y: round(sum(y) / float(len(y))/255, 3), zip(*newcolors)))
 					
-			if ":".join(tofind) in matstatics:
-				alpha = matstatics[":".join(tofind)]['alpha']
-				emittance = matstatics[":".join(tofind)]['emittance']
-				materials.update({":".join(tofind):{"name":name,"color":avgcolor,"alpha":alpha,"emittance":emittance}})
+			if tofind in matstatics:
+				alpha = matstatics[tofind]['alpha']
+				emittance = matstatics[tofind]['emittance']
+				materials.update({tofind:{"name":name,"color":avgcolor,"alpha":alpha,"emittance":emittance}})
 			else:
-				materials.update({":".join(tofind):{"name":name,"color":avgcolor,"alpha":0,"emittance":0}})
+				materials.update({tofind:{"name":str(name),"color":avgcolor,"alpha":0,"emittance":0}})
 
-f.write(json.dumps(materials, sort_keys=True,  indent=2, separators=(',', ': ')))
+f.write(repr(materials))

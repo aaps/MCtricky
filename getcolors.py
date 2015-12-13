@@ -56,15 +56,16 @@ for arow in soup.find_all("tr", class_="row"):
 				if color[1][3] > 0:
 					for x in xrange(1,color[0]):
 						
-						newcolors.append((color[1][0], color[1][1], color[1][2]))
+						newcolors.append((color[1][0], color[1][1], color[1][2], color[1][3]))
 			avgcolor = tuple(map(lambda y: round(sum(y) / float(len(y))/255, 3), zip(*newcolors)))
-					
-			if tofind in matstatics:		
-				material = Material(color=avgcolor,name=name, emittance = matstatics[tofind]['emittance'], alpha=matstatics[tofind]['alpha'])
-				materials.update({tofind:material.getDict()})
-			else:
-				material = Material(color=avgcolor,name=name)
-				materials.update({tofind:material.getDict()})
+			
+			avgnormal = avgcolor[0:3]
+			avgalpha = avgcolor[3]
+			if avgalpha > 0.5:
+				avgalpha = 1
+
+			material = Material(blockid=tofind,color=avgnormal,name=name,alpha = avgalpha, blandname=name)
+			materials.update({tofind:material.getDict()})
 
 
 f.write(repr(materials))

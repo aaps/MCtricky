@@ -8,6 +8,7 @@ import StringIO
 import ast
 import json
 from staticvalues import *
+from material import Material
 
 
 f = open('materials.json', 'w')
@@ -38,7 +39,7 @@ counter = 0
 for arow in soup.find_all("tr", class_="row"):
 	
 	tofind = arow.div["class"]
-	name = arow.find_all("span", class_="name")[0].getText()
+	name = arow.find_all("span", class_="name")[0].getText().encode('ascii','ignore')
 	match = re.search(r"[^a-zA-Z](" + tofind[1] +  ")[^a-zA-Z]", css)
 	num = match.start(1)
 	if len( css[num:num+110].split(" ")[2][1:-2]) > 2:
@@ -58,11 +59,12 @@ for arow in soup.find_all("tr", class_="row"):
 						newcolors.append((color[1][0], color[1][1], color[1][2]))
 			avgcolor = tuple(map(lambda y: round(sum(y) / float(len(y))/255, 3), zip(*newcolors)))
 					
-			if tofind in matstatics:
-				alpha = matstatics[tofind]['alpha']
-				emittance = matstatics[tofind]['emittance']
-				materials.update({tofind:{"name":name,"color":avgcolor,"alpha":alpha,"emittance":emittance}})
+			if tofind in matstatics:		
+				material = Material(color=avgcolor,name=name, emittance = matstatics[tofind]['emittance'], alpha=matstatics[tofind]['alpha'])
+				materials.update({tofind:material.getDict()})
 			else:
-				materials.update({tofind:{"name":str(name),"color":avgcolor,"alpha":0,"emittance":0}})
+				material = Material(color=avgcolor,name=name)
+				materials.update({tofind:material.getDict()})
+
 
 f.write(repr(materials))

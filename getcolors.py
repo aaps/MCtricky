@@ -42,17 +42,24 @@ for arow in soup.find_all("tr", class_="row"):
 	name = arow.find_all("span", class_="name")[0].getText().encode('ascii','ignore')
 	match = re.search(r"[^a-zA-Z](" + tofind[1] +  ")[^a-zA-Z]", css)
 	num = match.start(1)
-	if len( css[num:num+110].split(" ")[2][1:-2]) > 2:
+	
+	if len( css[num:num+110].split(" ")[2][1:-2]) > 1:
 		dimtoget = ast.literal_eval(css[num:num+110].split(" ")[2][1:-2])
 		cromdim = (0,dimtoget,32,dimtoget+32)
 		allcolors = im.crop(cromdim).getcolors()
-		tofind = arow.find_all("td", class_="id")[0].getText().split(":")
-		if len(tofind) < 2:
-		 	tofind.append("0")
-		tofind = int(tofind[0]), int(tofind[1])
+		tofind = arow.find_all("td", class_="id")[0].getText()
+
+
+		if ":" in tofind:
+			tofind = tofind.split(":")
+			
+			tofind = int(tofind[0]),int(tofind[1])
+		else:
+			tofind = int(tofind), 0
+
+
 		newcolors = []
 
-		# print name + " - " + str(tofind) + str(allcolors) + str(dimtoget)
 
 		if allcolors:
 			for color in allcolors:

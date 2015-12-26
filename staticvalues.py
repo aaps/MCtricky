@@ -5,11 +5,44 @@ from shapes import *
 shapemaker = Shapes()
 
 matstatics = {}
+# everything can be downloaded from the web except the model, textures emittance and uvs
+
+matstatics.update({(1,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0)}})
+
+
+matstatics.update({(20,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,1,0) }})
+
 
 matstatics.update({(8,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0)}})
 matstatics.update({(9,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
 
 matstatics.update({(20,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+
+matstatics.update({(44,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,1):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,2):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,3):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,4):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,5):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,6):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(44,7):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+
+matstatics.update({(53,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(67,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(108,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(109,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(114,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(134,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(135,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(136,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(156,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(163,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(164,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(180,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+
+matstatics.update({(65,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeladdershapes().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+matstatics.update({(106,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeladdershapes().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
+
 
 matstatics.update({(79,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) }})
 

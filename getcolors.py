@@ -51,6 +51,9 @@ for arow in soup.find_all("tr", class_="row"):
 		 	tofind.append("0")
 		tofind = int(tofind[0]), int(tofind[1])
 		newcolors = []
+
+		# print name + " - " + str(tofind) + str(allcolors) + str(dimtoget)
+
 		if allcolors:
 			for color in allcolors:
 				if color[1][3] > 0:
@@ -58,14 +61,18 @@ for arow in soup.find_all("tr", class_="row"):
 						
 						newcolors.append((color[1][0], color[1][1], color[1][2], color[1][3]))
 			avgcolor = tuple(map(lambda y: round(sum(y) / float(len(y))/255, 3), zip(*newcolors)))
-			
 			avgnormal = avgcolor[0:3]
 			avgalpha = avgcolor[3]
 			if avgalpha > 0.5:
 				avgalpha = 1
-
 			material = Material(blockid=tofind,color=avgnormal,name=name,alpha = avgalpha, blandname=name)
-			materials.update({tofind:material.getDict()})
+		else:
+			material = Material(blockid=tofind,name=name, blandname=name)
 
+
+		
+		materials.update({tofind:material.getDict()})
+
+print "length of materials found on site: " + str(len(materials))
 
 f.write(repr(materials))

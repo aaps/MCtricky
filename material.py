@@ -1,12 +1,14 @@
 #!/usr/bin/python -B
 
-from points import *
+from shapes import *
 from staticvalues import *
 
 class Material:
 
 	def __init__(self, emittance=None, color=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, model=None ):
 		
+		self.shapemaker = Shapes()
+
 		self.setId(blockid)
 
 		self.setTexture(textures)
@@ -27,11 +29,11 @@ class Material:
 
 
 	def getDict(self):
-		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"model":self.model.totuplelist(), "blandname":self.blandname}
+		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"model":self.model, "blandname":self.blandname}
 		return thedict
 
 	def setBlandName(self, blandname=None):
-		blandname = "unknown"
+		self.blandname = "unknown"
 		if blandname:
 			assert isinstance(blandname, str), "blandname should be string"
 			self.blandname = blandname.lower().replace(" ", "_")
@@ -39,7 +41,7 @@ class Material:
 			self.blandname = matstatics[self.blockid]['blandname']
 
 	def setModel(self, model=None):
-		self.model = PointList()
+		self.model = self.shapemaker.makeblockshape().totuplelist()
 		if model:
 			assert isinstance(model, PointList), "model should be PointList"
 			self.model = model
@@ -88,6 +90,7 @@ class Material:
 			self.emittance = matstatics[self.blockid]['emittance']
 
 	def setAlpha(self, alpha=None):
+		
 		self.alpha = 0
 		if alpha:
 			assert isinstance(alpha, (int, float)), "Alpha should be number"

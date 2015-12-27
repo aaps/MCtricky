@@ -52,14 +52,12 @@ for arow in soup.find_all("tr", class_="row"):
 
 		if ":" in tofind:
 			tofind = tofind.split(":")
-			
 			tofind = int(tofind[0]),int(tofind[1])
 		else:
 			tofind = int(tofind), 0
 
 
 		newcolors = []
-
 
 		if allcolors:
 			for color in allcolors:
@@ -76,9 +74,10 @@ for arow in soup.find_all("tr", class_="row"):
 		else:
 			material = Material(blockid=tofind,name=name, blandname=name)
 
-
 		
 		materials.update({tofind:material.getDict()})
+
+materials.update( material.addRest(materials) )
 
 print "length of materials found on site: " + str(len(materials))
 

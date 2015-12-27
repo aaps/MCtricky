@@ -5,13 +5,15 @@ from staticvalues import *
 
 class Material:
 
-	def __init__(self, emittance=None, color=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, model=None ):
+	def __init__(self, emittance=None, color=None,niceneighbor=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, model=None ):
 		
 		self.shapemaker = Shapes()
 
 		self.setId(blockid)
 
 		self.setTexture(textures)
+
+		self.setNiceNeighbor(niceneighbor)
 
 		self.setUvs(uvs)
 
@@ -27,9 +29,16 @@ class Material:
 
 		self.setBlandName(blandname)
 
+	def addRest(self, adict):
+		diff = set(matstatics)-set(adict)
+		tempdict = {}
+		for item in diff:
+			tempdict.update({item:matstatics[item]})
+		return tempdict
+
 
 	def getDict(self):
-		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"model":self.model, "blandname":self.blandname}
+		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"model":self.model, "blandname":self.blandname, "niceneighbor":self.niceneighbor}
 		return thedict
 
 	def setBlandName(self, blandname=None):
@@ -39,6 +48,15 @@ class Material:
 			self.blandname = blandname.lower().replace(" ", "_")
 		elif self.blockid in matstatics:
 			self.blandname = matstatics[self.blockid]['blandname']
+
+	def setNiceNeighbor(self, niceneighbor=None):
+		self.niceneighbor = False
+		if niceneighbor:
+			assert isinstance(niceneighbor, bool), "niceneighbor should be Boolean"
+			self.niceneighbor = niceneighbor
+		elif self.blockid in matstatics:
+			
+			self.niceneighbor = matstatics[self.blockid]['niceneighbor']
 
 	def setModel(self, model=None):
 		self.model = self.shapemaker.makeblockshape().totuplelist()

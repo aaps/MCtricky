@@ -9,11 +9,15 @@ import ast
 import json
 from staticvalues import *
 from material import Material
+import os.path
+import base64
+
 
 
 f = open('materials.json', 'w')
 
 materials = {}
+textures = {}
 baseurl = 'http://minecraft-ids.grahamedgecombe.com/'
 cssurl = baseurl + 'stylesheets/bundles/all/1440429950.css'
 imageurl = baseurl + 'images/sprites/items-21.png'
@@ -35,6 +39,14 @@ print im.size, im.mode
 
 soup = BeautifulSoup(html, "lxml")
 counter = 0
+
+for mat in matstatics:
+	if matstatics[mat]["textures"]:
+		for texname in matstatics[mat]["textures"]:
+			matpath = "./blocks/" + texname + ".png"
+			if os.path.exists(matpath) and texname not in textures:
+				with open(matpath, "rb") as image_file:
+					textures[texname] = base64.b64encode(image_file.read())
 
 for arow in soup.find_all("tr", class_="row"):
 	
@@ -81,4 +93,7 @@ materials.update( material.addRest(materials) )
 
 print "length of materials found on site: " + str(len(materials))
 
-f.write(repr(materials))
+matsandtex = {"materials":materials,"textures":textures}
+
+
+f.write(repr(matsandtex))

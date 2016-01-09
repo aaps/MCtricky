@@ -11,8 +11,9 @@ matstatics.update({(1,0):{"emittance":0,"uvs":[], "textures":[], "model":shapema
 
 
 matstatics.update({(2,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,1,0),"niceneighbor":False }})
-matstatics.update({(3,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,1,0),"niceneighbor":False }})
+matstatics.update({(3,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False }})
 
+matstatics.update({(17,0):{"emittance":0,"uvs":[], "textures":["log_oak","log_oak_top","log_oak","log_oak_top","log_oak","log_oak_top"], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,1,0),"niceneighbor":False }})
 
 matstatics.update({(30,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makexblock().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,1,0) ,"niceneighbor":True}})
 matstatics.update({(31,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makexblock().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,1,0) ,"niceneighbor":True}})
@@ -107,8 +108,24 @@ matstatics.update({(160,12):{"emittance":0,"uvs":[], "textures":[], "model":shap
 matstatics.update({(160,13):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(160,14):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(160,15):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-
 matstatics.update({(174,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+
+matstatics.update({(171,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,1):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,2):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,3):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,4):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,5):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,6):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,7):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,8):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,9):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,10):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,11):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,12):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,13):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,14):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(171,15):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
 matstatics.update({(50,0):{"emittance":5,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
 

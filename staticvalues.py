@@ -36,14 +36,6 @@ matstatics.update({(44,5):{"emittance":0,"uvs":[], "textures":[], "model":shapem
 matstatics.update({(44,6):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(44,7):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makehalfblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
-matstatics.update({(43,8):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"QQ","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,9):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"WW","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,10):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"GG","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,11):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"BB","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,12):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"NN","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,13):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"RR","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,14):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"EE","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(43,15):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"OP","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
 matstatics.update({(53,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(67,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})

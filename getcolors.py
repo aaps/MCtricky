@@ -32,6 +32,7 @@ image = urllib2.urlopen(imagereq).read()
 
 buff = StringIO.StringIO(image)
 
+print 'html length: ' + str(len(html))
 
 im = Image.open(buff)
 

@@ -46,6 +46,9 @@ matstatics.update({(85,0):{"emittance":0,"uvs":[], "textures":[], "model":shapem
 matstatics.update({(108,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(109,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
+matstatics.update({(111,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeflatblocks().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
+
+
 matstatics.update({(113,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makeblockshape().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
 
 matstatics.update({(114,0):{"emittance":0,"uvs":[], "textures":[], "model":shapemaker.makenormalstairs().totuplelist(), "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})

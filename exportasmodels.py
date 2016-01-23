@@ -5,7 +5,7 @@ import ast
 
 shapemaker = Shapes()
 models = {}
-modeldirpath = '../models/'
+modeldirpath = './models/'
 
 models.update({"flatblock":shapemaker.makeflatblocks().totuplelist()})
 models.update({"halfblock":shapemaker.makehalfblocks().totuplelist()})
@@ -19,6 +19,8 @@ models.update({"posstairs":shapemaker.makeposcornerstairs().totuplelist()})
 models.update({"verflatblock":shapemaker.makeverticalflatblock().totuplelist()})
 models.update({"stdfenceblock":shapemaker.makefenceshape().totuplelist()})
 models.update({"plusblock":shapemaker.makeverticalplusblock().totuplelist()})
+
+models.update({"ladderlike":shapemaker.makeladdershapes().totuplelist()})
 
 for model in models:
 

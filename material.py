@@ -2,10 +2,12 @@
 
 from shapes import *
 from staticvalues import *
+import ast
+import os.path
 
 class Material:
 
-	def __init__(self, emittance=None, color=None,niceneighbor=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, model=None ):
+	def __init__(self, emittance=None, color=None,niceneighbor=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, models=None ):
 		
 		self.shapemaker = Shapes()
 
@@ -25,7 +27,7 @@ class Material:
 
 		self.setName(name)
 
-		self.setModel(model)
+		self.setModel(models)
 
 		self.setBlandName(blandname)
 
@@ -38,7 +40,7 @@ class Material:
 
 
 	def getDict(self):
-		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"model":self.model, "blandname":self.blandname, "niceneighbor":self.niceneighbor}
+		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"models":self.models, "blandname":self.blandname, "niceneighbor":self.niceneighbor}
 		return thedict
 
 	def setBlandName(self, blandname=None):
@@ -58,13 +60,26 @@ class Material:
 			
 			self.niceneighbor = matstatics[self.blockid]['niceneighbor']
 
-	def setModel(self, model=None):
-		self.model = self.shapemaker.makeblockshape().totuplelist()
-		if model:
-			assert isinstance(model, PointList), "model should be PointList"
-			self.model = model
+	def setModel(self, models=None):
+		
+		if not hasattr(self, 'models'):
+			self.models = []
+
+		if models:
+			assert isinstance(models, List), "models should be list"
+			
+			self.models = models
 		elif self.blockid in matstatics:
-			self.model = matstatics[self.blockid]['model']
+			for model in matstatics[self.blockid]['models']:
+				if os.path.exists(modellocation + model +  '.mcmo'):
+					modelfile = open(modellocation + model +  '.mcmo', 'r')
+					self.models.append( ast.literal_eval(modelfile.read()))
+					modelfile.close()
+				else:
+					self.models.append( self.shapemaker.makeblockshape().totuplelist())
+				
+		else:
+			self.models.append( self.shapemaker.makeblockshape().totuplelist())
 
 	def setName(self, name=None):
 		self.name = "Unknown"

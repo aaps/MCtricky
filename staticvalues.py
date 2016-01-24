@@ -39,28 +39,28 @@ matstatics.update({(44,6):{"emittance":0,"uvs":[], "textures":[], "models":["hal
 matstatics.update({(44,7):{"emittance":0,"uvs":[], "textures":[], "models":["halfblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
 
-matstatics.update({(53,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(67,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(53,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs" ,"negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(67,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
-matstatics.update({(85,0):{"emittance":0,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
+matstatics.update({(85,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdfenceblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
 
 
-matstatics.update({(108,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(109,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(108,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(109,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
 matstatics.update({(111,0):{"emittance":0,"uvs":[], "textures":[], "models":["flatblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
 
 
-matstatics.update({(113,0):{"emittance":0,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
+matstatics.update({(113,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdfenceblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
 
-matstatics.update({(114,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(134,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(135,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(136,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(156,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(163,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(164,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
-matstatics.update({(180,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(114,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(134,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(135,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(136,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(156,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(163,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(164,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
+matstatics.update({(180,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
 matstatics.update({(65,0):{"emittance":0,"uvs":[], "textures":[], "models":["ladderlike"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(106,0):{"emittance":0,"uvs":[], "textures":[], "models":["ladderlike"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})

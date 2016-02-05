@@ -12,40 +12,74 @@ import os.path
 import base64
 import zipfile
 
+headers = { 'User-Agent' : 'Mozilla/5.0' }
+imageszipurl = 'http://minecraft-ids.grahamedgecombe.com/items.zip'
+imagezipreq = urllib2.Request(imageszipurl, None, headers)
+imagezipfinal = urllib2.urlopen(imagezipreq)
+etag = imagezipfinal.info()['ETag']
 
-# f = open('materials.json', 'w')
+fkey = open('./cache/key', 'r')
+fcontent = fkey.read()
+etag = etag.translate(None,'\"')
+
+print fcontent
+print etag
+
+if fcontent == etag:
+    print 'OK SAME !'
+
+fkey = open('./cache/key', 'w')
+fkey.write(etag)
+fkey.close()
+
+
+quit()
+    
+keycontent = fkey.read()
 
 materials = {}
 textures = {}
-headers = { 'User-Agent' : 'Mozilla/5.0' }
 
 blockinfojsonurl = 'http://minecraft-ids.grahamedgecombe.com/items.json'
-imageszipurl = 'http://minecraft-ids.grahamedgecombe.com/items.zip'
-
 jsonreq = urllib2.Request(blockinfojsonurl, None, headers)
-blockinfojson = urllib2.urlopen(jsonreq).read()
 
-imagezipreq = urllib2.Request(imageszipurl, None, headers)
-imagezip = urllib2.urlopen(imagezipreq).read()
 
-z = zipfile.ZipFile(StringIO.StringIO(imagezip))
 
-with z as archive:
-    for entry in archive.infolist():
-        with archive.open(entry) as afile:
+
+blockinfojson = urllib2.urlopen(jsonreq)
+
+jsoncontent = jsonreq.read()
+
+
+jsonf = open('./cache/items.json', 'w')
+jsonf.write(jsoncontent)
+
+
+# 
+# imagezip = urllib2.urlopen(imagezipreq).read()
+
+
+
+# z = zipfile.ZipFile(StringIO.StringIO(imagezip))
+
+# avgcolors = []
+
+# with z as archive:
+#     for entry in archive.infolist():
+#         with archive.open(entry) as afile:
             
-            img = Image.open(StringIO.StringIO(afile.read()))
-            newcolors = []
-            img = img.convert('RGBA')
-            allcolors = img.getcolors()
-            if allcolors:
-                for color in allcolors:
-                    for x in xrange(1,color[0]):
+#             img = Image.open(StringIO.StringIO(afile.read()))
+#             newcolors = []
+#             img = img.convert('RGBA')
+#             allcolors = img.getcolors()
+#             if allcolors:
+#                 for color in allcolors:
+#                     for x in xrange(1,color[0]):
 
-                        newcolors.append((color[1][0], color[1][1], color[1][2]))
+#                         newcolors.append((color[1][0], color[1][1], color[1][2]))
 
-                avgcolor = map(lambda y: sum(y) / float(len(y))/255, zip(*newcolors))
-            print avgcolor
+#                 avgcolors.append(map(lambda y: sum(y) / float(len(y))/255, zip(*newcolors)))
+# print avgcolors
 
 
 # objects = json.loads(blockinfojson)

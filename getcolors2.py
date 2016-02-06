@@ -11,9 +11,11 @@ from material import Material
 import os.path
 import base64
 import zipfile
+import os
 
 headers = { 'User-Agent' : 'Mozilla/5.0' }
 imageszipurl = 'http://minecraft-ids.grahamedgecombe.com/items.zip'
+blockinfojsonurl = 'http://minecraft-ids.grahamedgecombe.com/items.json'
 imagezipreq = urllib2.Request(imageszipurl, None, headers)
 imagezipfinal = urllib2.urlopen(imagezipreq)
 etag = imagezipfinal.info()['ETag']
@@ -22,11 +24,21 @@ fkey = open('./cache/key', 'r')
 fcontent = fkey.read()
 etag = etag.translate(None,'\"')
 
-print fcontent
-print etag
 
-if fcontent == etag:
+
+if fcontent == etag and os.path.isfile('./cache/items.json') and os.path.isfile('./cache/items.zip'):
     print 'OK SAME !'
+else:
+    fjson = open('./cache/items.json', 'w')
+    fzip = open('./cache/items.zip', 'w')
+    jsonreq = urllib2.Request(blockinfojsonurl, None, headers)
+    blockinfojson = urllib2.urlopen(jsonreq)
+
+    keycontent = fkey.read()
+    fjson.write(blockinfojson.read())
+    fzip.write(imagezipfinal.read())
+    fzip.close()
+    fjson.close()
 
 fkey = open('./cache/key', 'w')
 fkey.write(etag)
@@ -35,18 +47,18 @@ fkey.close()
 
 quit()
     
-keycontent = fkey.read()
+
 
 materials = {}
 textures = {}
 
-blockinfojsonurl = 'http://minecraft-ids.grahamedgecombe.com/items.json'
-jsonreq = urllib2.Request(blockinfojsonurl, None, headers)
 
 
 
 
-blockinfojson = urllib2.urlopen(jsonreq)
+
+
+
 
 jsoncontent = jsonreq.read()
 

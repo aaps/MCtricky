@@ -38,7 +38,7 @@ matstatics.update({(44,5):{"emittance":0,"uvs":[], "textures":[], "models":["hal
 matstatics.update({(44,6):{"emittance":0,"uvs":[], "textures":[], "models":["halfblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(44,7):{"emittance":0,"uvs":[], "textures":[], "models":["halfblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
-matstatics.update({(50,0):{"emittance":0,"uvs":[], "textures":[], "models":["torch"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
+matstatics.update({(50,0):{"emittance":5,"uvs":[], "textures":[], "models":["torch"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
 
 matstatics.update({(53,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs" ,"negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(67,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})

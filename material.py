@@ -61,7 +61,6 @@ class Material:
 			self.niceneighbor = matstatics[self.blockid]['niceneighbor']
 
 	def setModel(self, models=None):
-		
 		if not hasattr(self, 'models'):
 			self.models = []
 
@@ -71,14 +70,16 @@ class Material:
 			self.models = models
 		elif self.blockid in matstatics:
 			for model in matstatics[self.blockid]['models']:
-				if os.path.exists(modellocation + model +  '.mcmo'):
-					modelfile = open(modellocation + model +  '.mcmo', 'r')
-					self.models.append( ast.literal_eval(modelfile.read()))
+				if os.path.exists(modellocation + model +  '.mcmd'):
+					modelfile = open(modellocation + model +  '.mcmd', 'r')
+					modelstring = modelfile.read()
+					self.models.append(ast.literal_eval(modelstring))
 					modelfile.close()
+					
 				else:
 					self.models.append( self.shapemaker.makeblockshape().totuplelist())
-				
 		else:
+			
 			self.models.append( self.shapemaker.makeblockshape().totuplelist())
 
 	def setName(self, name=None):

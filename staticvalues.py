@@ -38,6 +38,7 @@ matstatics.update({(44,5):{"emittance":0,"uvs":[], "textures":[], "models":["hal
 matstatics.update({(44,6):{"emittance":0,"uvs":[], "textures":[], "models":["halfblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(44,7):{"emittance":0,"uvs":[], "textures":[], "models":["halfblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
+matstatics.update({(50,0):{"emittance":0,"uvs":[], "textures":[], "models":["torch"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":True}})
 
 matstatics.update({(53,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs" ,"negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(67,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
@@ -124,7 +125,7 @@ matstatics.update({(171,13):{"emittance":0,"uvs":[], "textures":[], "models":["f
 matstatics.update({(171,14):{"emittance":0,"uvs":[], "textures":[], "models":["flatblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 matstatics.update({(171,15):{"emittance":0,"uvs":[], "textures":[], "models":["flatblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"niceneighbor":False}})
 
-matstatics.update({(50,0):{"emittance":5,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
+# matstatics.update({(50,0):{"emittance":5,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
 
 matstatics.update({(119,0):{"emittance":5,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
 
@@ -135,6 +136,8 @@ matstatics.update({(91,0):{"emittance":5,"uvs":[], "textures":[], "models":["blo
 matstatics.update({(10,0):{"emittance":5,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
 
 matstatics.update({(11,0):{"emittance":5,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
+
+matstatics.update({(166,0):{"emittance":0,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":0.2, "color":(0,0,0),"niceneighbor":False}})
 
 matstatics.update({(169,0):{"emittance":5,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0),"niceneighbor":False}})
 

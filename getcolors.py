@@ -1,6 +1,6 @@
-# #!/usr/bin/python -B
+#!/usr/bin/python -B
 
-#use getcolors2.py !
+# use getcolors2.py !
 
 # import urllib2
 # from bs4 import BeautifulSoup
@@ -16,7 +16,8 @@
 
 
 
-# f = open('materials.json', 'w')
+
+# f = open('materials.someformat', 'w')
 
 # materials = {}
 # textures = {}
@@ -98,5 +99,6 @@
 
 # matsandtex = {"materials":materials,"textures":textures}
 
+# toformat = repr(matsandtex).replace("}", "}\n")
 
-# f.write(repr(matsandtex))
+# f.write(toformat)

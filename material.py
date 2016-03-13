@@ -7,7 +7,7 @@ import os.path
 
 class Material:
 
-	def __init__(self, emittance=None, color=None,niceneighbor=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, models=None ):
+	def __init__(self, emittance=None, color=None,interneighbor=None,extraneighbor=None, alpha=None, blockid=None, name=None,blandname = None, uvs=None, textures=None, models=None ):
 		
 		self.shapemaker = Shapes()
 
@@ -15,7 +15,9 @@ class Material:
 
 		self.setTexture(textures)
 
-		self.setNiceNeighbor(niceneighbor)
+		self.setInterNeighbor(interneighbor)
+
+		self.setExtraNeighbor(extraneighbor)
 
 		self.setUvs(uvs)
 
@@ -40,7 +42,7 @@ class Material:
 
 
 	def getDict(self):
-		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"models":self.models, "blandname":self.blandname, "niceneighbor":self.niceneighbor}
+		thedict = {"emittance":self.emittance,"alpha":self.alpha,"name":self.name,"uvs":self.uvs,"color":self.color, "textures":self.textures,"models":self.models, "blandname":self.blandname, "interneighbor":self.interneighbor, "extraneighbor":self.extraneighbor}
 		return thedict
 
 	def setBlandName(self, blandname=None):
@@ -51,14 +53,23 @@ class Material:
 		elif self.blockid in matstatics:
 			self.blandname = matstatics[self.blockid]['blandname']
 
-	def setNiceNeighbor(self, niceneighbor=None):
-		self.niceneighbor = False
-		if niceneighbor:
-			assert isinstance(niceneighbor, bool), "niceneighbor should be Boolean"
-			self.niceneighbor = niceneighbor
+	def setInterNeighbor(self, interneighbor=None):
+		self.interneighbor = False
+		if interneighbor:
+			assert isinstance(interneighbor, bool), "interneighbor should be Boolean"
+			self.interneighbor = interneighbor
 		elif self.blockid in matstatics:
 			
-			self.niceneighbor = matstatics[self.blockid]['niceneighbor']
+			self.interneighbor = matstatics[self.blockid]['interneighbor']
+
+	def setExtraNeighbor(self, extraneighbor=None):
+		self.extraneighbor = False
+		if extraneighbor:
+			assert isinstance(extraneighbor, bool), "extraneighbor should be Boolean"
+			self.extraneighbor = extraneighbor
+		elif self.blockid in matstatics:
+			
+			self.extraneighbor = matstatics[self.blockid]['extraneighbor']
 
 	def setModel(self, models=None):
 		if not hasattr(self, 'models'):

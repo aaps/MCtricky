@@ -13,7 +13,7 @@ import base64
 import zipfile
 import os
 
-headers = { 'User-Agent' : 'Mozilla/5.0' }
+headers = { 'User-Agent' : 'https://github.com/aaps/MCtricky' }
 imageszipurl = 'http://minecraft-ids.grahamedgecombe.com/items.zip'
 blockinfojsonurl = 'http://minecraft-ids.grahamedgecombe.com/items.json'
 imagezipreq = urllib2.Request(imageszipurl, None, headers)
@@ -121,3 +121,5 @@ toformat = repr(matsandtex).replace("}", "}\n")
 
 
 f.write(toformat)
+
+print "Done !"

@@ -49,6 +49,8 @@ matstatics.update({(75,0):{"emittance":2,"uvs":[], "textures":[], "models":["tor
 
 matstatics.update({(76,0):{"emittance":2,"uvs":[], "textures":[], "models":["torch"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":True, "extraneighbor":False}})
 
+matstatics.update({(78,0):{"emittance":2,"uvs":[], "textures":[], "models":["blockblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":False, "extraneighbor":True}})
+
 
 matstatics.update({(85,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdfenceblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":True, "extraneighbor":True}})
 
@@ -60,6 +62,8 @@ matstatics.update({(111,0):{"emittance":0,"uvs":[], "textures":[], "models":["fl
 
 
 matstatics.update({(113,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdfenceblock"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":True, "extraneighbor":True}})
+
+matstatics.update({(128,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":True, "extraneighbor":True}})
 
 matstatics.update({(114,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":True, "extraneighbor":True}})
 matstatics.update({(134,0):{"emittance":0,"uvs":[], "textures":[], "models":["stdstairs","posstairs","negstairs"], "blandname":"" ,"name":"","alpha":1, "color":(0,0,0) ,"interneighbor":True, "extraneighbor":True}})
